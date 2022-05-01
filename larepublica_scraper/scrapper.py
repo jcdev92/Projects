@@ -1,5 +1,7 @@
 import requests
 import lxml.html as html
+import os
+import datetime
 
 XPATH_LINK_TO_ARTICLE = '//div[@class="V_Title"]/a/@href'
 XPATH_TITLE = '//h2[@data-h="45"]/span/text()'
