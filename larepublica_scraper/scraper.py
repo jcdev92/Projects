@@ -17,7 +17,7 @@ def parse_home():
             home = response.content.decode('utf-8')
             parsed = html.fromstring(home)
             links_to_notices = parsed.xpath(XPATH_LINK_TO_ARTICLE)
-            print(links_to_notices)
+##            print(links_to_notices)
         else:
             raise ValueError(f'Error {response.status_code}')
     except ValueError as ve:
