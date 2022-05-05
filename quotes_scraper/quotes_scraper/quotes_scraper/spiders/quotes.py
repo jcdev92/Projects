@@ -9,6 +9,6 @@ class quotesSpider(scrapy.Spider):
     def parse(self, response):
         print('*'*10)
         print('\n\n')
-        print(response.status, response.header)
+        print(response.status, response.headers)
         print('*'*10)
         print('\n\n')
