@@ -32,4 +32,12 @@ class quotesSpider(scrapy.Spider):
             'quote' : short,
             'ten_tags': short_tag
         }
+
+        yield {
+            'title': title,
+            'quote' : short,
+            'ten_tags': short_tag
+        }
+
+
         
