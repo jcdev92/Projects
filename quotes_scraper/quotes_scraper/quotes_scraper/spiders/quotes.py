@@ -1,4 +1,12 @@
 import scrapy
+# Title
+## h1/a/text()
+
+# Citas 
+## //span[@class="text" and @itemprop="text"]/text()
+
+# Top Ten Tags
+## //div[contains(@class, "tags-box")]//span[@class="tag-item"]/a/text()
 
 class quotesSpider(scrapy.Spider):
     name = 'quotes'
