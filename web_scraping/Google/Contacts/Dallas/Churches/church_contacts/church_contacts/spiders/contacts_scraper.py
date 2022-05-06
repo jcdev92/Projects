@@ -2,7 +2,7 @@ import scrapy
 import os
 
 # Business Title
-## '//*[@id="akp_tsuid10"]//h2/span/text()'
+## '//h2[@class="qrShPb kno-ecr-pt PZPZlf q8U8x PPT5v hNKfZe"]/span/text()'
 
 # Direction
 ## PATH 1  -----  '//*[@id="akp_tsuid10"]//div[2]/div/div/span[2]/text()'
@@ -17,7 +17,7 @@ import os
 class contactsSpider(scrapy.Spider):
     name = 'churches75230'
     start_urls = [
-        'https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALiCzsbMzdH5cKVySWwHwp2VH_OZWv80Pg:1651848443994&q=75230+churches&rflfq=1&num=10&sa=X&ved=2ahUKEwjS_-f9jsv3AhW8lWoFHdJRBv0QjGp6BAgdEAE&biw=819&bih=622&dpr=1.49#rlfi=hd:;si:14773528532225268533,l,Cg43NTIzMCBjaHVyY2hlc1oUIg43NTIzMCBjaHVyY2hlcyoCCAOSARNwcmVzYnl0ZXJpYW5fY2h1cmNomgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJSZUhGVVkwRjNFQUWqARAQASoMIghjaHVyY2hlcygA;mv:[[32.9260996,-96.7680381],[32.8625549,-96.8225437]]'
+        'https://www.google.com/search?q=75230%20churches&oq=&aqs=chrome.0.35i39i362l8.469654864j0j15&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALiCzsbNhj6ax2gDOe1VwKqHmHHzcC9fmg:1651857309413&rflfq=1&num=10&rldimm=5676161483414474647&lqi=Cg43NTIzMCBjaHVyY2hlc1oUIg43NTIzMCBjaHVyY2hlcyoCCAOSARBtZXRob2Rpc3RfY2h1cmNoqgEQEAEqDCIIY2h1cmNoZXMoAA&ved=2ahUKEwiwgZaBsMv3AhW5mmoFHf3FCtIQvS56BAgDEAE&sa=X&rlst=f#rlfi=hd:;si:6700806698490321268,l,Cg43NTIzMCBjaHVyY2hlc1oUIg43NTIzMCBjaHVyY2hlcyoCCAOSARd1bml0ZWRfbWV0aG9kaXN0X2NodXJjaJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSWmIzUnFaRXBuRUFFqgEQEAEqDCIIY2h1cmNoZXMoAA;mv:[[32.9456012,-96.7680381],[32.8614511,-96.8225437]]'
     ]
     if os.path.exists('contacts.csc'):
         os.remove("contacts.csc")
@@ -27,12 +27,10 @@ class contactsSpider(scrapy.Spider):
     }
 
     def parse(self, response):
-        name = response.xpath('//*[@id="akp_tsuid10"]//h2/span/text()').get()
-        direction = response.xpath('//*[@id="akp_tsuid10"]//div[2]/div/div/span[2]/text()').get()
-        number = response.xpath('').get()
-        website = response.xpath('').get()
-        
-        web = response.xpath('//div[contains(@class, "tags-box")]//span[@class="tag-item"]/a/text()').get()
+        name = response.xpath('//h2[@class="qrShPb kno-ecr-pt PZPZlf q8U8x PPT5v hNKfZe"]/span/text()').get()
+        direction = response.xpath('//span[@class="LrzXr"]/text()').get()
+        number = response.xpath('//a[@data-dtype="d3ph"]//span/text()').get()
+        website = response.xpath('//a[@class="ab_button CL9Uqc"]/@href').get()
         
         yield {
             'organitation': name,
@@ -41,6 +39,6 @@ class contactsSpider(scrapy.Spider):
             'website': website
         }
 
-        next_page_button_link = response.xpath('').get()
+        next_page_button_link = response.xpath('//a[@class="fl"]/@href').get()
         if next_page_button_link:
             yield response.follow(next_page_button_link, callback=self.parse)       
