@@ -1,4 +1,6 @@
 import scrapy
+import os
+
 # Title
 ## h1/a/text() 
 
@@ -16,9 +18,11 @@ class quotesSpider(scrapy.Spider):
     start_urls = [
         'http://quotes.toscrape.com/'
     ]
-    custom_settings = {
-        "FEEDS":{"quotes_3.csv":{"format":"csv"}}
-    }
+
+    os.remove("quotes_3.csv")
+
+    custom_settings = {"FEEDS":{"quotes_3.csv":{"format":"csv"}}}
+
     def parse_quotes(self, response, **kwargs):
         if kwargs:
             quotes = kwargs['quotes']
@@ -26,17 +30,15 @@ class quotesSpider(scrapy.Spider):
         next_page_button_link = response.xpath('//li[@class="next"]/a/@href').get()
         if next_page_button_link:
             yield response.follow(next_page_button_link, callback=self.parse_quotes, cb_kwargs={'quotes': quotes})
-        else:
-            for i in range(len(quotes)):
-                yield {
-                    'quotes' : quotes,
+        else: 
+            yield {
+                'quotes' : quotes
                 }
 
     def parse(self, response):
         title = response.xpath('//h1/a/text() ').get()
         quotes = response.xpath('//span[@class="text" and @itemprop="text"]/text()').getall()
         ten_tags = response.xpath('//div[contains(@class, "tags-box")]//span[@class="tag-item"]/a/text()').getall()
-        
         
         yield {
             'title': title,

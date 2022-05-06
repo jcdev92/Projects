@@ -1,4 +1,5 @@
 import scrapy
+import os
 # Title
 ## h1/a/text() 
 
@@ -16,6 +17,7 @@ class quotesSpider(scrapy.Spider):
     start_urls = [
         'http://quotes.toscrape.com/'
     ]
+    os.remove("quotes.json")
     custom_settings = {
         "FEEDS":{"quotes.json":{"format":"json"}}
     }
