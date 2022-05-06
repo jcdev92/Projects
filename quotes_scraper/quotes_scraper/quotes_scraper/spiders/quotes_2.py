@@ -16,6 +16,9 @@ class quotesSpider(scrapy.Spider):
     start_urls = [
         'http://quotes.toscrape.com/'
     ]
+    custom_settings = {
+        "FEEDS":{"quotes_2.csv":{"format":"csv"}}
+    }
 
     def parse(self, response):
         title = response.xpath('//h1/a/text() ').get()
