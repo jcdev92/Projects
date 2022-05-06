@@ -27,8 +27,11 @@ class quotesSpider(scrapy.Spider):
             yield {
                 'title': title,
                 'quote' : quotes[i],
-                'ten_tags': ten_tags[i:10]
+                'ten_tags': ten_tags[i]
             }
+        
+        next_page_button_link = response.xpath('//li[@class="next"]/a/@href').get()
+        
 
 
 
