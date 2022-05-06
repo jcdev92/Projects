@@ -19,8 +19,8 @@ class quotesSpider(scrapy.Spider):
         quotes = response.xpath('//span[@class="text" and @itemprop="text"]/text()').getall()
         ten_tags = response.xpath('//div[contains(@class, "tags-box")]//span[@class="tag-item"]/a/text()').getall()
         
-
-        for i in range(len(quotes)): 
+        
+        for i in range(len(quotes)):
             yield {
                 'title': title,
                 'quote' : quotes[i],
