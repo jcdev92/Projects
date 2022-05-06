@@ -9,10 +9,10 @@ import os
 ## PATH 2  -----  '//*[@id="akp_tsuid10"]//div[3]/div/div[2]/div/div/span[2]/text()'
 
 # Phone Number 
-## '//li[@class="next"]/a/@href'
+## response.xpath('//a[@data-dtype="d3ph"]//span/text()').get()
 
 # Website URL 
-## //span[@class="text" and @itemprop="text"]/text()
+## response.xpath('//a[@class="ab_button CL9Uqc"]/@href').get()
 
 class contactsSpider(scrapy.Spider):
     name = 'churches75230'
