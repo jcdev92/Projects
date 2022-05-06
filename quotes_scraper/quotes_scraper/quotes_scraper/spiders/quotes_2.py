@@ -31,7 +31,8 @@ class quotesSpider(scrapy.Spider):
             }
         
         next_page_button_link = response.xpath('//li[@class="next"]/a/@href').get()
-        
+        if next_page_button_link:
+            yield response.follow(next_page_button_link, callback=self.parse)
 
 
 
