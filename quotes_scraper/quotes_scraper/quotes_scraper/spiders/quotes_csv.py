@@ -32,7 +32,7 @@ class quotesSpider(scrapy.Spider):
             yield response.follow(next_page_button_link, callback=self.parse_quotes, cb_kwargs={'quotes': quotes})
         else: 
             yield {
-                'quotes' : quotes
+                'quotes' : quotes,
                 }
 
     def parse(self, response):

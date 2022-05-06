@@ -17,7 +17,9 @@ class quotesSpider(scrapy.Spider):
     start_urls = [
         'http://quotes.toscrape.com/'
     ]
-    os.remove("quotes.json")
+    if os.path.exists('quotes.json'):
+        os.remove("quotes.json")
+    
     custom_settings = {
         "FEEDS":{"quotes.json":{"format":"json"}}
     }
