@@ -8,6 +8,9 @@ import scrapy
 # Top Ten Tags
 ## //div[contains(@class, "tags-box")]//span[@class="tag-item"]/a/text()
 
+# Next Page Button 
+## '//li[@class="next"]/a/@href'
+
 class quotesSpider(scrapy.Spider):
     name = 'quotes_2'
     start_urls = [
@@ -24,7 +27,7 @@ class quotesSpider(scrapy.Spider):
             yield {
                 'title': title,
                 'quote' : quotes[i],
-                'ten_tags': ten_tags[i]
+                'ten_tags': ten_tags[i:10]
             }
 
 
