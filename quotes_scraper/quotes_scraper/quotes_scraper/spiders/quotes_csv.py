@@ -34,7 +34,7 @@ class quotesSpider(scrapy.Spider):
         else: 
             for i in range(len(quotes)):
                 yield {
-                    'quotes' : quotes,
+                    'quotes' : quotes[i],
                     }
 
     def parse(self, response):
