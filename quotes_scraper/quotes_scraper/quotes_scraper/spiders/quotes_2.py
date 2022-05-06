@@ -13,14 +13,14 @@ import os
 ## '//li[@class="next"]/a/@href'
 
 class quotesSpider(scrapy.Spider):
-    name = 'quotes_2'
+    name = 'new_q'
     start_urls = [
         'http://quotes.toscrape.com/'
     ]
 
     if os.path.exists('quotes_2.csv'):
         os.remove("quotes_2.csv")
-        
+
     custom_settings = {
         "FEEDS":{"quotes_2.csv":{"format":"csv"}}
     }
