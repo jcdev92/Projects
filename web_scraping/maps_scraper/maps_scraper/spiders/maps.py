@@ -7,7 +7,7 @@ import os
 class mapsSpider(scrapy.Spider):
     name = 'maps'
     allowed_domains = ["https://www.google.com/?hl=es"]
-    start_urls = ['https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALiCzsY6NwHEcmizK569Vy1KLWEQdeF3fA:1652042344804&q=75230+churches&rflfq=1&num=10&sa=X&ved=2ahUKEwjVu_ao4dD3AhUhRjABHTdiAmQQjGp6BAgeEAE&biw=819&bih=622&dpr=1.49#rlfi=hd:;si:;mv:[[32.9260996,-96.7680381],[32.8625549,-96.8225437]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2']
+    start_urls = ['https://www.google.com/search?sa=X&tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALiCzsYm7OVedE_K3Za8mPTmJxX0wzyoHA:1652045306400&q=75230+churches&rflfq=1&num=10&ved=2ahUKEwj65o-t7ND3AhV3RjABHeupBv0QjGp6BAghEAE&biw=819&bih=622&dpr=1.49#rlfi=hd:;si:;mv:[[32.9260996,-96.7680381],[32.8625549,-96.8225437]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2']
 
 #    if os.path.exists('contacts.csc'):
 #        os.remove("contacts.csc")
