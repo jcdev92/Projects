@@ -21,21 +21,22 @@ class contactsSpider(scrapy.Spider):
 
 #    if os.path.exists('contacts.csc'):
 #        os.remove("contacts.csc")
-    
-    custom_settings = {'FEEDS': {'/spiders/contacts.csv':{'format': 'csv'}}}
 
     def parse(self, response):
+        
         name = response.xpath('//a[@class="business-name"]/span/text()').getall()
         direction = response.xpath('//div[@class="street-address"]/text()').getall()
         zone = response.xpath('//div[@class="locality"]/text()').getall()
         number = response.xpath('//div[@class="phones phone primary"]/text()').getall()
+        website = response.xpath('//div/div[@class="links"]/a/@href').getall()
         
-        
-        yield {
-            'organitation': name,
-            'direction': direction,
-            'zone': zone,
-            'number': number    
+        for i in range(len(name)):
+            yield {
+            'organitation': name[i],
+            'direction': direction[i],
+            'zone': zone[i],
+            'number': number[i],
+            'website': website[i],
         }
 
         next_page_button_link = response.xpath('//div[2]/div[4]/ul/li[3]/a/@href').get()
