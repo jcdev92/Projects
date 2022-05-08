@@ -12,6 +12,12 @@ BOT_NAME = 'contacts_scraper'
 SPIDER_MODULES = ['contacts_scraper.spiders']
 NEWSPIDER_MODULE = 'contacts_scraper.spiders'
 
+# Desired file format
+FEED_FORMAT = "csv"
+ 
+# Name of the file where data extracted is stored
+FEED_URI = "contacts.csv"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'contacts_scraper (+http://www.yourdomain.com)'
