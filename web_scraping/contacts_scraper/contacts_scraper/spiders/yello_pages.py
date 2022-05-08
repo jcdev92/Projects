@@ -37,8 +37,7 @@ class contactsSpider(scrapy.Spider):
             'organitation': name,
             'direction': direction,
             'zone': zone,
-            'number': number
-            
+            'number': number    
         }
 
         next_page_button_link = response.xpath('//div[2]/div[4]/ul/li[3]/a/@href').get()
