@@ -1,13 +1,13 @@
 import openpyxl
  
-doc = openpyxl.load_workbook ("datos.xlsx")
-hoja = doc.get_sheet_by_name("peliculas")
+doc = openpyxl.load_workbook ("webs.xlsx")
+hoja = doc.get_sheet_by_name("webs")
  
  
  
-l=[]
+webs=[]
 for row in hoja.iter_rows():
-    peliculas = row[0].value
-    l.append(peliculas)
- 
-print l
+    pages = row[1].value
+    webs.append(pages)
+
+print(webs)
