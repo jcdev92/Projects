@@ -1,0 +1,1200 @@
+[
+    {
+        "query": "https://www.theheightsdallas.com/",
+        "domain": "theheightsdallas.com",
+        "phones": [
+            {
+                "value": "4696070072",
+                "sources": [
+                    {
+                        "ref": "https://www.theheightsdallas.com/",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    },
+                    {
+                        "ref": "https://www.theheightsdallas.com/",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    },
+                    {
+                        "ref": "https://www.theheightsdallas.com/",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    }
+                ]
+            },
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://www.theheightsdallas.com/apartments/tx/dallas/apply",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    },
+                    {
+                        "ref": "https://www.theheightsdallas.com/apartments/tx/dallas/contact-us",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    },
+                    {
+                        "ref": "https://www.theheightsdallas.com/apartments/tx/dallas/neighborhood",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/TheHeightsDallas",
+            "instagram": "https://www.instagram.com/heightsatparklane",
+            "youtube": "https://www.youtube.com/channel/UCVGJKO_LIP3cZt1Fl_vAxag"
+        },
+        "site_data": {
+            "description": "The Heights at Park Lane offers luxury studio, 1, 2 & 3 bedroom apartments in Dallas, TX! Fantastic amenities + Great location in Preston Hollow near University Park.",
+            "keywords": "",
+            "title": "Luxury High Rise Apartments in Dallas, TX | The Heights at Park Lane"
+        }
+    },
+    {
+        "query": "https://www.parkhollow.com/",
+        "domain": "parkhollow.com",
+        "phones": [
+            {
+                "value": "2142389068",
+                "sources": [
+                    {
+                        "ref": "https://www.parkhollow.com/university-park-dallas-apartments/",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    },
+                    {
+                        "ref": "https://www.parkhollow.com/university-park-dallas-apartments/",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    },
+                    {
+                        "ref": "https://www.parkhollow.com/university-park-dallas-apartments/",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "zrs@spherexx.com",
+                "sources": [
+                    {
+                        "ref": "https://www.parkhollow.com/accessibility/",
+                        "extracted_on": "2021-10-17T19:19:49.885000",
+                        "updated_on": "2021-10-17T19:19:49.885000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/ParkHollowApts/",
+            "instagram": "https://www.instagram.com/parkhollow"
+        },
+        "site_data": {
+            "description": "Park Hollow presents luxury one, two, and three bedroom apartments in North Dallas, TX, in the prestigious Preston Hollow and University Park areas.",
+            "title": "Park Hollow | North Dallas TX Apartments"
+        }
+    },
+    {
+        "query": "https://www.modenadallas.com/",
+        "domain": "modenadallas.com",
+        "phones": [
+            {
+                "value": "12143618275",
+                "sources": [
+                    {
+                        "ref": "https://www.modenadallas.com/application/",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-01-03T21:50:46.708000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/145845765860460",
+            "instagram": "https://www.instagram.com/modenaapts"
+        },
+        "site_data": {
+            "description": "Modena is located in Dallas, Texas. We offer nineteen floor plans with one and two bedroom homes for rent. Apartment features include USB charging outlets, chef-style kitchens, walk-in closets, Bluetooth keyless entry, ceiling fans, 9-foot ceilings, and a balcony or patio. Community amenities include a clubhouse, a business center, a coffee and refreshment station, gated access, limited FOB elevator access, a trash chute on each floor, a 24-hour parcel station, a fitness center, a swimming pool, and complimentary bike rental. Modena is a pet-friendly community and offers a bark park, a dog wash station, and pet waste stations. ",
+            "keywords": "Dallas, TX Apartments, Apartments in Dallas, Dallas Apartments, Modena",
+            "title": "\n    \n    \n    Modena - Apartments in Dallas, TX\n"
+        }
+    },
+    {
+        "query": "https://intercityinvestments.com/",
+        "domain": "intercityinvestments.com",
+        "external_emails": [
+            {
+                "value": "leasing@icirealestate.com",
+                "sources": [
+                    {
+                        "ref": "https://intercityinvestments.com/contact-us/",
+                        "extracted_on": "2022-05-11T02:01:49.272000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    }
+                ]
+            }
+        ],
+        "site_data": {
+            "description": "The Best in Dallas Property Management and Real Estate",
+            "generator": "Envisioned v.3.5.14",
+            "title": "Intercity Investments - The Best in Dallas Property Management and Real Estate"
+        }
+    },
+    {
+        "query": "https://www.cwsapartments.com/apartments/tx/dallas/marquis-on-gaston/",
+        "domain": "cwsapartments.com",
+        "emails": [
+            {
+                "value": "customercare@cwsapartments.com",
+                "sources": [
+                    {
+                        "ref": "https://www.cwsapartments.com/fair-housing-statement",
+                        "extracted_on": "2021-08-17T15:00:59.757000",
+                        "updated_on": "2021-08-17T15:00:59.757000"
+                    },
+                    {
+                        "ref": "https://www.cwsapartments.com/privacy-policy",
+                        "extracted_on": "2021-08-17T15:00:59.757000",
+                        "updated_on": "2021-08-17T15:00:59.757000"
+                    }
+                ]
+            },
+            {
+                "value": "mwesley@cwsapartments.com",
+                "full_name": "Melissa Wesley",
+                "title": "leasing director",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "lmember@cwsapartments.com",
+                "full_name": "Linkedin Member",
+                "title": "leasing director",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "bnollola@cwsapartments.com",
+                "full_name": "Ben Nollola",
+                "title": "regional director of operations",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "kdann@cwsapartments.com",
+                "full_name": "Kenny Dann",
+                "title": "leasing director",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "mbarsch@cwsapartments.com",
+                "full_name": "Maria Barsch",
+                "title": "assistant community director",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "cfouts@cwsapartments.com",
+                "full_name": "Chris Fouts",
+                "title": "Network Administrator",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:40.181000",
+                        "updated_on": "2021-11-13T19:16:40.181000"
+                    }
+                ]
+            },
+            {
+                "value": "gmiller@cwsapartments.com",
+                "full_name": "Gregory Miller",
+                "title": "Vice President",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:40.181000",
+                        "updated_on": "2021-11-13T19:16:40.181000"
+                    }
+                ]
+            },
+            {
+                "value": "jmedrano@cwsapartments.com",
+                "full_name": "Jessica Medrano",
+                "title": "Property Manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:40.181000",
+                        "updated_on": "2021-11-13T19:16:40.181000"
+                    }
+                ]
+            },
+            {
+                "value": "jmcalister@cwsapartments.com",
+                "full_name": "Julie Mcalister",
+                "title": "Manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-14T14:04:41.716000",
+                        "updated_on": "2021-11-15T23:11:12.788000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/CWSApartmentHomes",
+            "instagram": "http://instagram.com/cwsapartments&h=AT0A-9IPjhJIiIFZJKUhYTMRYrcE1Hh4l1hZncxy8r3VDOFWJmFr0KnMBffosRBbwV6KswxDiNb_NGPktnrxticeAZq8UODHm2tVEhx8nlL67B2TNVP7zx5YYe3lFc6Nc4U6696Jopp-MQ",
+            "linkedin": "https://www.linkedin.com/company/cws-apartment-homes",
+            "twitter": "http://twitter.com/cwsapartments&h=AT0A-9IPjhJIiIFZJKUhYTMRYrcE1Hh4l1hZncxy8r3VDOFWJmFr0KnMBffosRBbwV6KswxDiNb_NGPktnrxticeAZq8UODHm2tVEhx8nlL67B2TNVP7zx5YYe3lFc6Nc4U6696Jopp-MQ",
+            "youtube": "https://www.youtube.com/channel/UCyhVuF_FsRL1W_Jsb-UL49A/featured&h=AT0A-9IPjhJIiIFZJKUhYTMRYrcE1Hh4l1hZncxy8r3VDOFWJmFr0KnMBffosRBbwV6KswxDiNb_NGPktnrxticeAZq8UODHm2tVEhx8nlL67B2TNVP7zx5YYe3lFc6Nc4U6696Jopp-MQ"
+        },
+        "site_data": {
+            "description": "At CWS Apartment Homes we are dedicated to providing the best in apartment homes. To learn more about our apartment communities, please visit our website.",
+            "keywords": "",
+            "title": "CWS Apartment Homes | Apartments "
+        },
+        "phones": [
+            {
+                "value": "+1 800-648-6096",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-02-09T16:38:10.329000",
+                        "updated_on": "2022-02-09T16:38:10.329000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "deepellum-lofts.com"
+    },
+    {
+        "query": "https://www.thegibsonco.com/",
+        "domain": "thegibsonco.com",
+        "emails": [
+            {
+                "value": "josh@thegibsonco.com",
+                "sources": [
+                    {
+                        "ref": "https://www.thegibsonco.com/",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-01-12T06:58:50.605000"
+                    }
+                ]
+            }
+        ],
+        "site_data": {
+            "description": "The Gibson Company manages one of the largest commerical and residential loft portfolios in Dallas, Tx., while also maintaining a boutique style experience.",
+            "generator": "Wix.com Website Builder",
+            "keywords": "architecture office in dallas, artist loft, commercial lofts in dallas, dallas lofts, historic lofts, natural light loft, photography studio",
+            "title": "Lofts | Dallas | The Gibson Company"
+        }
+    },
+    {
+        "query": "https://www.elmstreetlofts.com/"
+    },
+    {
+        "query": "https://www.ambroseliving.com/",
+        "domain": "ambroseliving.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://ambroseliving.com/gallery.aspx",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://ambroseliving.com/Location.aspx",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-02-05T06:05:18.094000"
+                    },
+                    {
+                        "ref": "https://ambroseliving.com/Contact.aspx",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/AmbroseApartments/",
+            "instagram": "https://www.instagram.com/ambroseliving_de"
+        },
+        "site_data": {
+            "description": "Experience a contemporary way of living at Ambrose Apartments with 1, 2 & 3 bedroom apartments that feature a timeless palette with modern amenities.",
+            "title": "\r\n\tDeep Ellum Apartments | Ambrose Apartments\r\n"
+        }
+    },
+    {
+        "query": "https://www.indiedeepellum.com/",
+        "domain": "indiedeepellum.com",
+        "phones": [
+            {
+                "value": "4696071141",
+                "sources": [
+                    {
+                        "ref": "https://www.indiedeepellum.com",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.themitchelllofts.com/",
+        "domain": "themitchelllofts.com",
+        "phones": [
+            {
+                "value": "2148214888",
+                "sources": [
+                    {
+                        "ref": "https://www.themitchelllofts.com/",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-01-12T06:58:50.605000"
+                    },
+                    {
+                        "ref": "https://www.themitchelllofts.com/",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-01-12T06:58:50.605000"
+                    },
+                    {
+                        "ref": "https://www.themitchelllofts.com/",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-01-12T06:58:50.605000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "privacy@reachlocal.com",
+                "sources": [
+                    {
+                        "ref": "https://www.themitchelllofts.com/privacy-policy/",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-01-12T06:58:50.605000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/TheMitchellLofts",
+            "instagram": "https://www.instagram.com/themitchelllofts",
+            "twitter": "https://twitter.com/MitchellLofts"
+        },
+        "site_data": {
+            "description": "The Mitchell Lofts Apartments offers a wide range of loft residences that consist of one and two-bedroom floor plans in Dallas. Explore our community now!",
+            "generator": "wordpress",
+            "title": "The Mitchell Lofts Offer Renovated Loft Apartments in Dallas"
+        }
+    },
+    {
+        "query": "https://www.columbiavillasdallas.com/",
+        "domain": "columbiavillasdallas.com",
+        "external_emails": [
+            {
+                "value": "notices@365connect.com",
+                "sources": [
+                    {
+                        "ref": "https://www.columbiavillasdallas.com/core/Home/Terms",
+                        "extracted_on": "2022-05-11T02:01:49.272000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    }
+                ]
+            },
+            {
+                "value": "support@365connect.com",
+                "sources": [
+                    {
+                        "ref": "https://www.columbiavillasdallas.com/core/Home/Accessibility",
+                        "extracted_on": "2022-05-11T02:01:49.272000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    }
+                ]
+            }
+        ],
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://www.columbiavillasdallas.com/Marketing/Home/Neighborhood",
+                        "extracted_on": "2022-05-11T02:01:49.272000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    }
+                ]
+            }
+        ],
+        "site_data": {
+            "description": "Welcome to Columbia Villas Apartments in Dallas, Texas. Located in the Munger Historic District along Columbia Avenue, our community is just",
+            "keywords": "Apartments, For Rent, TX, Dallas, 75226",
+            "title": "Apartments in Dallas, TX | Columbia Villas Apartments in Dallas, TX"
+        }
+    },
+    {
+        "query": "https://www.adam-hats-lofts.com/"
+    },
+    {
+        "query": "https://www.thehamiltondallas.com/"
+    },
+    {
+        "query": "https://www.2220cantonlofts.com/",
+        "domain": "2220cantonlofts.com",
+        "site_data": {
+            "generator": "Wix.com Website Builder",
+            "keywords": "Find, dream, home, next, your",
+            "title": "2220 Canton Lofts | Historic Luxury Living"
+        }
+    },
+    {
+        "query": "https://www.3333elmstreetlofts.com/"
+    },
+    {
+        "query": "https://www.liveatindio.com/lakewood-lodge",
+        "domain": "liveatindio.com",
+        "site_data": {
+            "title": "Live at Indio"
+        }
+    },
+    {
+        "query": "https://www.olympusproperty.com/apartments/tx/dallas/75-west/",
+        "domain": "olympusproperty.com",
+        "emails": [
+            {
+                "value": "info@olympusproperty.com",
+                "sources": [
+                    {
+                        "ref": "https://lagomarsino.com/real_estate_about_us/re_master-planned_residential",
+                        "extracted_on": "2021-08-17T15:00:59.757000",
+                        "updated_on": "2021-08-17T15:00:59.757000"
+                    },
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-05T12:13:03.045000",
+                        "updated_on": "2022-01-05T12:13:03.045000"
+                    }
+                ]
+            },
+            {
+                "value": "shelley.ball@olympusproperty.com",
+                "full_name": "Shelley Ball",
+                "title": "assistant manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "anthony@olympusproperty.com",
+                "full_name": "Anthony Wonderly",
+                "title": "Principal",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:40.181000",
+                        "updated_on": "2021-11-13T19:16:40.181000"
+                    }
+                ]
+            },
+            {
+                "value": "chandler@olympusproperty.com",
+                "full_name": "Chandler Wonderly",
+                "title": "Principal",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:40.181000",
+                        "updated_on": "2021-11-13T19:16:40.181000"
+                    }
+                ]
+            },
+            {
+                "value": "keith@olympusproperty.com",
+                "full_name": "Keith Jones",
+                "title": "Vice President of Finance",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:40.181000",
+                        "updated_on": "2021-11-13T19:16:40.181000"
+                    }
+                ]
+            },
+            {
+                "value": "bwonderly@olympusproperty.com",
+                "full_name": "Bill Wonderly",
+                "title": "Manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-14T15:28:56.660000",
+                        "updated_on": "2021-11-14T15:28:56.660000"
+                    }
+                ]
+            },
+            {
+                "value": "cwonderly@olympusproperty.com",
+                "full_name": "Chandler Wonderly",
+                "title": "Owner",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-14T15:28:56.660000",
+                        "updated_on": "2021-11-14T15:28:56.660000"
+                    }
+                ]
+            }
+        ],
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://www.olympusproperty.com/",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2022-04-22T13:44:03.024000"
+                    },
+                    {
+                        "ref": "https://www.olympusproperty.com/find-your-home",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2022-01-07T20:30:28.584000"
+                    },
+                    {
+                        "ref": "https://www.olympusproperty.com/contact-us",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2022-01-07T20:30:28.584000"
+                    }
+                ]
+            },
+            {
+                "value": "6827779254",
+                "sources": [
+                    {
+                        "ref": "https://www.olympusproperty.com/",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2022-04-22T13:44:03.024000"
+                    },
+                    {
+                        "ref": "https://www.olympusproperty.com/find-your-home",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2022-01-07T20:30:28.584000"
+                    },
+                    {
+                        "ref": "https://www.olympusproperty.com/contact-us",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2022-01-07T20:30:28.584000"
+                    }
+                ]
+            },
+            {
+                "value": "9414445300",
+                "sources": [
+                    {
+                        "ref": "https://www.olympusproperty.com/apartments/fl/sarasota/the-loop-at-2800/blog",
+                        "extracted_on": "2021-12-11T00:57:40.014000",
+                        "updated_on": "2021-12-11T00:57:40.014000"
+                    },
+                    {
+                        "ref": "https://www.olympusproperty.com/apartments/fl/sarasota/the-loop-at-2800/floor-plans",
+                        "extracted_on": "2021-12-11T00:57:40.014000",
+                        "updated_on": "2022-01-03T21:50:46.708000"
+                    },
+                    {
+                        "ref": "https://www.olympusproperty.com/apartments/fl/sarasota/the-loop-at-2800/schedule-a-tour",
+                        "extracted_on": "2021-12-11T00:57:40.014000",
+                        "updated_on": "2021-12-11T00:57:40.014000"
+                    }
+                ]
+            },
+            {
+                "value": "+1 817-795-4900",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-05T12:13:03.045000",
+                        "updated_on": "2022-01-05T12:13:03.045000"
+                    }
+                ]
+            },
+            {
+                "value": "+1 575-221-5520",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-29T00:38:16.863000",
+                        "updated_on": "2022-01-29T00:38:16.863000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/olympusteamranch",
+            "instagram": "https://www.instagram.com/olympusproperty",
+            "linkedin": "https://www.linkedin.com/company/olympus-property",
+            "twitter": "https://www.twitter.com/olympusproperty",
+            "yelp": "https://www.yelp.com/biz/olympus-team-ranch-benbrook"
+        },
+        "site_data": {
+            "description": "Olympus Team Ranch offers 1, 2 & 3 bedroom apartments in Benbrook, TX! Fantastic amenities + Great location near Forth Worth &  I-20. Click for more info!",
+            "keywords": "",
+            "title": " Benbrook, TX Apartments for Rent | Olympus Team Ranch"
+        },
+        "external_emails": [
+            {
+                "value": "sonomapalmsinfo@gr8apartmenthomes.com",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-29T00:38:16.863000",
+                        "updated_on": "2022-01-29T00:38:16.863000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.avondaleparcapts.com/Features.aspx",
+        "domain": "avondaleparcapts.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://avondaleparcapts.com/",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://avondaleparcapts.com/Features.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://avondaleparcapts.com/Virtual-Tours.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "info@knightvest.com",
+                "sources": [
+                    {
+                        "ref": "https://avondaleparcapts.com/Privacy-policy.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/Avondale-Parc-Apartments-117319318351577/",
+            "instagram": "https://www.instagram.com/bellmarliving"
+        },
+        "site_data": {
+            "description": "Located off Royal Lane in Bellmar North, Avondale Parc is a luxury North Dallas apartment community featuring one-bedroom and two-bedroom apartments, as well as amazing amenities and upgrades.",
+            "keywords": "TX Apartments Great Dallas, TX, Apartments for rent in TX, (214) 428-6001 Apartments TX",
+            "title": "\r\n\tDallas, TX, Luxury Apartments - Avondale Parc @ Bellmar\r\n"
+        }
+    },
+    {
+        "query": "https://www.canyoncreekapartmenthomes.com/"
+    },
+    {
+        "query": "https://www.smichasecrossingapts.com/"
+    },
+    {
+        "query": "https://www.evertonapartmentsdallas.com/",
+        "domain": "evertonapartmentsdallas.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://evertonapartmentsdallas.com/",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://evertonapartmentsdallas.com/site-map.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://evertonapartmentsdallas.com/contact.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "info@knightvest.com",
+                "sources": [
+                    {
+                        "ref": "https://evertonapartmentsdallas.com/Privacy-policy.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "instagram": "https://www.instagram.com/bellmarliving"
+        },
+        "site_data": {
+            "description": "Everton @ Bellmar has the best one-bedroom apartments and two-bedroom apartments in North Dallas. From a pool and sun deck to fully upgraded, spacious homes, there\u2019s something for everyone.",
+            "keywords": "TX Apartments Great Dallas, TX, Apartments for rent in TX, (214) 361-8050 Apartments TX",
+            "title": "\r\n\tDallas, TX, Luxury Apartments - Everton @ Bellmar\r\n"
+        }
+    },
+    {
+        "query": "evertonapartmentsdallas.com",
+        "domain": "evertonapartmentsdallas.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://evertonapartmentsdallas.com/",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://evertonapartmentsdallas.com/site-map.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://evertonapartmentsdallas.com/contact.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "info@knightvest.com",
+                "sources": [
+                    {
+                        "ref": "https://evertonapartmentsdallas.com/Privacy-policy.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "instagram": "https://www.instagram.com/bellmarliving"
+        },
+        "site_data": {
+            "description": "Everton @ Bellmar has the best one-bedroom apartments and two-bedroom apartments in North Dallas. From a pool and sun deck to fully upgraded, spacious homes, there\u2019s something for everyone.",
+            "keywords": "TX Apartments Great Dallas, TX, Apartments for rent in TX, (214) 361-8050 Apartments TX",
+            "title": "\r\n\tDallas, TX, Luxury Apartments - Everton @ Bellmar\r\n"
+        }
+    },
+    {
+        "query": "https://www.hadleydallas.com/",
+        "domain": "hadleydallas.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://hadleydallas.com/",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://hadleydallas.com/Features.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://hadleydallas.com/Virtual-Tours.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "info@knightvest.com",
+                "sources": [
+                    {
+                        "ref": "https://hadleydallas.com/Privacy-policy.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/hadleyatbellmar/",
+            "instagram": "https://www.instagram.com/bellmarliving"
+        },
+        "site_data": {
+            "description": "Featuring one-bedroom and two-bedroom lofts and townhomes, Hadley @ Bellmar is home to some of the best luxury apartments in North Dallas. Enjoy an on-site pool, dog park and much more.",
+            "keywords": "TX Apartments Great Dallas, TX, Apartments for rent in TX, (214) 692-8808 Apartments TX",
+            "title": "\r\n\tDallas, TX, Luxury Apartments - Hadley @ Bellmar\r\n"
+        }
+    },
+    {
+        "query": "https://hollowsnorth.condoconduit.com/HollowsNorth/Default.htm"
+    },
+    {
+        "query": "https://www.madisonapartmentsdallas.com/?utm_knock=w",
+        "domain": "madisonapartmentsdallas.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://madisonapartmentsdallas.com/",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://madisonapartmentsdallas.com/Contact.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://madisonapartmentsdallas.com/contact.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "info@knightvest.com",
+                "sources": [
+                    {
+                        "ref": "https://madisonapartmentsdallas.com/Privacy-policy.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "instagram": "https://www.instagram.com/bellmarliving"
+        },
+        "site_data": {
+            "description": "Featuring one-bedroom and two-bedroom apartments, Madison @ Bellmar is home to some of the best luxury apartments in North Dallas. Amenities: pool, fitness center, gated access and more.",
+            "keywords": "TX Apartments Great Dallas, TX, Apartments for rent in TX, (214) 363-8115 Apartments TX",
+            "title": "\r\n\tDallas, TX, Luxury Apartments - Madison @ Bellmar\r\n"
+        }
+    },
+    {
+        "query": "https://www.montfortcrossing.com/"
+    },
+    {
+        "query": "https://signaturephv.com/luxury-homes-in-preston-hollow-village-dallas/",
+        "domain": "signaturephv.com",
+        "emails": [
+            {
+                "value": "inquire@signaturephv.com",
+                "sources": [
+                    {
+                        "ref": "https://signaturephv.com/privacy-policy/",
+                        "extracted_on": "2021-09-10T12:38:16.071000",
+                        "updated_on": "2021-09-10T12:38:16.071000"
+                    },
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-02-19T18:14:55.387000",
+                        "updated_on": "2022-02-19T18:14:55.387000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/The-Signature-Collection-at-Preston-Hollow-Village-2255826961349917/",
+            "instagram": "http://instagram.com/signaturephv"
+        },
+        "site_data": {
+            "description": "The Signature Collection at Preston Hollow Village in Dallas, Texas. Boldly designed and meticulously constructed, these homes define a unique lifestyle next to a vibrant, walkable urban neighborhood.",
+            "title": "The Signature Collection at Preston Hollow Village | Luxury Homes | Dallas"
+        },
+        "phones": [
+            {
+                "value": "+1 214-238-9872",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-02-19T18:14:55.387000",
+                        "updated_on": "2022-02-19T18:14:55.387000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.prestonhollowvillageapartments.com/",
+        "domain": "prestonhollowvillageapartments.com",
+        "phones": [
+            {
+                "value": "4699131300",
+                "sources": [
+                    {
+                        "ref": "https://www.prestonhollowvillageapartments.com/",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    },
+                    {
+                        "ref": "https://www.prestonhollowvillageapartments.com/the-douglas-dallas-tx/",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    },
+                    {
+                        "ref": "https://www.prestonhollowvillageapartments.com/the-preston-dallas-tx/",
+                        "extracted_on": "2022-01-12T06:58:50.605000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/PHVillageApartments",
+            "instagram": "https://instagram.com/phvillageapartments",
+            "youtube": "https://www.youtube.com/channel/UCTl74jaQaeXicR7Qt6iRi5w/",
+            "yelp": "https://www.yelp.com/biz/preston-hollow-village-dallas-4"
+        },
+        "site_data": {
+            "description": "",
+            "title": "\nLincoln - Preston Hollow Village - Home\n"
+        }
+    },
+    {
+        "query": "https://www.riverfallsdallas.com/",
+        "domain": "riverfallsdallas.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://riverfallsdallas.com/",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://riverfallsdallas.com/site-map.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://riverfallsdallas.com/contact.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "info@knightvest.com",
+                "sources": [
+                    {
+                        "ref": "https://riverfallsdallas.com/Privacy-policy.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "instagram": "https://www.instagram.com/bellmarliving"
+        },
+        "site_data": {
+            "description": "Featuring one-bedroom and two-bedroom apartments, Riverfalls @ Bellmar is home to some of the best luxury apartments in North Dallas. Enjoy an upgraded gym, large pool and other great amenities.",
+            "keywords": "TX Apartments Great Dallas, TX, Apartments for rent in TX, (214) 368-3373 Apartments TX",
+            "title": "\r\n\tDallas, TX, Luxury Apartments - Riverfalls @ Bellmar\r\n"
+        }
+    },
+    {
+        "query": "https://www.sevilledallas.com/",
+        "domain": "sevilledallas.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://sevilledallas.com/",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://sevilledallas.com/Features.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    },
+                    {
+                        "ref": "https://sevilledallas.com/floor-plans.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "info@knightvest.com",
+                "sources": [
+                    {
+                        "ref": "https://sevilledallas.com/Privacy-policy.aspx",
+                        "extracted_on": "2022-03-16T03:53:09.572000",
+                        "updated_on": "2022-03-16T03:53:09.572000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/Bellmarliving/",
+            "instagram": "https://www.instagram.com/bellmarliving"
+        },
+        "site_data": {
+            "description": "Featuring one-bedroom and two-bedroom apartments, Seville @ Bellmar is home to some of the best luxury apartments in North Dallas. Amenities include a fitness center, dog park, pools and more.",
+            "keywords": "TX Apartments Great Dallas, TX, Apartments for rent in TX, (214) 890-2300 Apartments TX",
+            "title": "\r\n\tDallas, TX, Luxury Apartments - Seville @ Bellmar\r\n"
+        }
+    },
+    {
+        "query": "https://www.theentro.com/"
+    },
+    {
+        "query": "https://www.fountainsapt.com/",
+        "domain": "fountainsapt.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://fountainsapt.com/",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    },
+                    {
+                        "ref": "https://fountainsapt.com/site-map.aspx",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    },
+                    {
+                        "ref": "https://fountainsapt.com/Articles.aspx",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    },
+                    {
+                        "ref": "https://fountainsapt.com/Neighborhood.aspx",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/TheFountainsApartment/",
+            "instagram": "https://www.instagram.com/thefountainsapts",
+            "twitter": "//platform.twitter.com/widgets"
+        },
+        "site_data": {
+            "description": "Luxury apartments for rent in North Dallas Preston Hollow.  Visit The Fountains today!",
+            "keywords": "Preston Hollow apartments, Dallas apartments for rent, apartment for rent near SMU",
+            "title": "\r\n\tPreston Hollow Apartments for Rent in Dallas near SMU | The Fountains\r\n"
+        }
+    },
+    {
+        "query": "https://www.thesummitatmidtown.com/"
+    },
+    {
+        "query": "https://www.waterforddallas.com/?utm_knock=w",
+        "domain": "waterforddallas.com",
+        "phones": [
+            {
+                "value": "",
+                "sources": [
+                    {
+                        "ref": "https://waterforddallas.com/",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    },
+                    {
+                        "ref": "https://waterforddallas.com/floor-plans.aspx",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-01-03T21:50:46.708000"
+                    },
+                    {
+                        "ref": "https://waterforddallas.com/Virtual-Tours.aspx",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-01-03T21:50:46.708000"
+                    },
+                    {
+                        "ref": "https://waterforddallas.com/location.aspx",
+                        "extracted_on": "2022-01-03T21:50:46.708000",
+                        "updated_on": "2022-05-11T02:01:49.272000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "instagram": "https://www.instagram.com/bellmarliving",
+            "facebook": "https://www.facebook.com/waterforddallas/"
+        },
+        "site_data": {
+            "description": "Looking for the best luxury apartments in North Dallas? Look no further than Waterford @ Bellmar. We\u2019re home to some of the finest one-bedroom and two-bedroom apartments in the area.",
+            "keywords": "TX Apartments Great Dallas, TX, Apartments for rent in TX, (214) 242-8993 Apartments TX",
+            "title": "\r\n\tDallas, TX, Luxury Apartments - Waterford @ Bellmar\r\n"
+        }
+    },
+    {
+        "query": "woodbridgeapartmenthomes.com"
+    }
+]
