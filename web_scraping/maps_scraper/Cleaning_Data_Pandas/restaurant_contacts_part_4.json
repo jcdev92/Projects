@@ -1,0 +1,3276 @@
+[
+    {
+        "query": "https://locations.mcalistersdeli.com/tx/dallas/4101-lemmon-ave?utm_source=google&utm_medium=organic&utm_campaign=locations_partner",
+        "domain": "locations.mcalistersdeli.com",
+        "site_data": {
+            "description": "Browse all McAlister's Deli locations in the United States | Enjoy America's favorite sandwiches, soups, salads, spuds, and more. Learn more about dining in, catering, or delivery.",
+            "keywords": "",
+            "title": "All McAlister's Deli locations in the United States | Deli Restaurant & Sandwich Shop Near Me"
+        },
+        "external_emails": [
+            {
+                "value": "catering@shmcalisters.com",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/id/twin-falls/1720-pole-line-road-east",
+                        "extracted_on": "2021-08-20T16:15:57.501000",
+                        "updated_on": "2021-10-20T13:32:03.061000"
+                    }
+                ]
+            },
+            {
+                "value": "lakedelton.mcalisters@gmail.com",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/wi/lake-delton/100-gasser-road",
+                        "extracted_on": "2021-08-20T16:15:57.501000",
+                        "updated_on": "2021-10-20T13:32:03.061000"
+                    }
+                ]
+            }
+        ],
+        "phones": [
+            {
+                "value": "18148653869",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/pa/university-park/28-hub-robeson-center",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2021-10-20T13:32:03.061000"
+                    }
+                ]
+            },
+            {
+                "value": "17015323354",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/nd/fargo/5600-28th-ave-south",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2021-10-20T11:55:23.348000"
+                    }
+                ]
+            },
+            {
+                "value": "13077422864",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/wy/laramie/2317-grand-avenue",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2021-10-20T13:32:03.061000"
+                    }
+                ]
+            },
+            {
+                "value": "16082530997",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/wi/lake-delton/100-gasser-road",
+                        "extracted_on": "2021-10-20T13:32:03.061000",
+                        "updated_on": "2021-10-20T13:32:03.061000"
+                    }
+                ]
+            },
+            {
+                "value": "6082530997",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/wi/lake-delton/100-gasser-road",
+                        "extracted_on": "2021-10-20T13:32:03.061000",
+                        "updated_on": "2021-10-20T13:32:03.061000"
+                    }
+                ]
+            },
+            {
+                "value": "12089635892",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/id/twin-falls/1720-pole-line-road-east",
+                        "extracted_on": "2021-10-20T13:32:03.061000",
+                        "updated_on": "2021-10-20T13:32:03.061000"
+                    }
+                ]
+            },
+            {
+                "value": "8664383900",
+                "sources": [
+                    {
+                        "ref": "https://locations.mcalistersdeli.com/id/twin-falls/1720-pole-line-road-east",
+                        "extracted_on": "2021-10-20T13:32:03.061000",
+                        "updated_on": "2021-10-20T13:32:03.061000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.landmarkrestodallas.com/the-library-bar?utm_source=google&utm_medium=local&utm_campaign=seo_restaurants",
+        "domain": "landmarkrestodallas.com",
+        "external_emails": [
+            {
+                "value": "info.dallas@warwickhotels.com",
+                "sources": [
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/contact-and-location",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/the-library-bar",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/gallery",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/menu",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "sales.dallas@warwickhotels.com",
+                "sources": [
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/contact-and-location",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/the-library-bar",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/gallery",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.landmarkrestodallas.com/menu",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "awright@warwickhotels.com",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-03T20:27:23.287000",
+                        "updated_on": "2022-01-03T20:27:23.287000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/warwickdallas",
+            "instagram": "https://www.instagram.com/warwickmelrose",
+            "twitter": "https://twitter.com/warwickmelrose"
+        },
+        "site_data": {
+            "description": "Welcome to The Landmark Restaurant OFFICIAL WEBSITE! Our restaurant, in the iconic Warwick Melrose - Dallas, offers live music & delicious dishes. Book your table!",
+            "keywords": "",
+            "title": "The Landmark Restaurant | Live Music Restaurant in Uptown Dallas"
+        },
+        "phones": [
+            {
+                "value": "+1 214-521-5151",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-03T20:27:23.287000",
+                        "updated_on": "2022-01-03T20:27:23.287000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://locations.jimmyjohns.com/tx/dallas/sandwiches-2669.html?utm_source=google%20my%20business&utm_medium=organic&utm_campaign=website%20link",
+        "domain": "locations.jimmyjohns.com",
+        "socials": {
+            "facebook": "https://www.facebook.com/jimmyjohns/",
+            "instagram": "https://www.instagram.com/jimmyjohns",
+            "twitter": "https://twitter.com/jimmyjohns",
+            "youtube": "https://www.youtube.com/user/jimmyjohns"
+        },
+        "site_data": {
+            "description": "Looking for a delicious lunch or food catering for your company event?  Stop by your local Jimmy John's for one our renowned sandwiches.  We also bring the meal to your doorstep with our convenient food delivery service.",
+            "keywords": "catering near me, food delivery near me, jimmy johns, lunch near me, sandwiches near me",
+            "title": "Lunches Sandwiches & Food Delivery Near You | Jimmy John's Locator"
+        }
+    },
+    {
+        "query": "https://www.mychocolatesecrets.com/",
+        "domain": "mychocolatesecrets.com",
+        "emails": [
+            {
+                "value": "manager@mychocolatesecrets.com",
+                "sources": [
+                    {
+                        "ref": "https://www.mychocolatesecrets.com/",
+                        "extracted_on": "2021-10-15T11:01:06.627000",
+                        "updated_on": "2021-10-15T11:01:06.627000"
+                    },
+                    {
+                        "ref": "https://www.mychocolatesecrets.com/menu",
+                        "extracted_on": "2021-10-15T11:01:06.627000",
+                        "updated_on": "2021-10-15T11:01:06.627000"
+                    },
+                    {
+                        "ref": "https://www.mychocolatesecrets.com/open-mic-monday-sign-in-sheet",
+                        "extracted_on": "2021-10-15T11:01:06.627000",
+                        "updated_on": "2021-10-15T11:01:06.627000"
+                    }
+                ]
+            }
+        ],
+        "site_data": {
+            "description": "Chocolate Secrets is a gourmet chocolate and fine wine restaurant headquartered at 3926 Oak Lawn Avenue in Dallas, Texas. Our chocolates and confections are made with organic, natural and premium ingredients.Chocolate Secrets is home to Live Music, Cooking Classes, and Online Store for Delivery.",
+            "generator": "Wix.com Website Builder",
+            "title": "Gourment Chocolate | Chocolate Secrets | United States"
+        }
+    },
+    {
+        "query": "https://www.starbucks.com/store-locator/store/15920/",
+        "domain": "starbucks.com",
+        "emails": [
+            {
+                "value": "applicantaccommodation@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/careers/international-careers",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/careers/find-a-job/corporate",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://fr.starbucks.ca/carrieres/find-a-job/corporate",
+                        "extracted_on": "2021-10-17T16:09:28.082000",
+                        "updated_on": "2021-10-17T16:09:28.082000"
+                    }
+                ]
+            },
+            {
+                "value": "privacy@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/privacy-statement",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.nl/about-us/company-information/online-policies/privacy-statement",
+                        "extracted_on": "2021-10-16T03:22:28.381000",
+                        "updated_on": "2021-10-16T03:22:28.381000"
+                    }
+                ]
+            },
+            {
+                "value": "info@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://consciouskitchen513.com/?page_id=129",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    }
+                ]
+            },
+            {
+                "value": "u003einfo@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://fr.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-10-17T16:09:28.082000",
+                        "updated_on": "2021-10-17T16:09:28.082000"
+                    }
+                ]
+            },
+            {
+                "value": "ukinfo@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.kingstoncentre.co.uk/",
+                        "extracted_on": "2021-09-11T13:03:59.914000",
+                        "updated_on": "2021-09-11T13:03:59.914000"
+                    },
+                    {
+                        "ref": "https://www.newmersey.co.uk/",
+                        "extracted_on": "2021-09-11T13:03:59.914000",
+                        "updated_on": "2021-09-11T13:03:59.914000"
+                    },
+                    {
+                        "ref": "https://www.broughtonshopping.co.uk/",
+                        "extracted_on": "2021-10-17T18:10:22.327000",
+                        "updated_on": "2021-10-17T18:10:22.327000"
+                    }
+                ]
+            },
+            {
+                "value": "ethicsandcompliance@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.az/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-09-14T10:13:00.355000",
+                        "updated_on": "2021-09-14T10:13:00.355000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.bg/about-us/company-information/business-ethics",
+                        "extracted_on": "2021-10-06T07:57:17.794000",
+                        "updated_on": "2021-10-06T07:57:17.794000"
+                    },
+                    {
+                        "ref": "https://www.starbucksromania.ro/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-10-07T15:00:15.468000",
+                        "updated_on": "2021-10-07T15:00:40.039000"
+                    }
+                ]
+            },
+            {
+                "value": "press@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.evolutionfresh.com/contact-us/",
+                        "extracted_on": "2021-10-07T22:17:31.124000",
+                        "updated_on": "2021-10-07T22:17:31.124000"
+                    },
+                    {
+                        "ref": "https://stories.starbucks.com/",
+                        "extracted_on": "2022-02-23T00:28:43.969000",
+                        "updated_on": "2022-02-23T00:28:43.969000"
+                    },
+                    {
+                        "ref": "https://stories.starbucks.com/contact/",
+                        "extracted_on": "2022-02-23T00:28:43.969000",
+                        "updated_on": "2022-02-23T00:28:43.969000"
+                    }
+                ]
+            },
+            {
+                "value": "us2601617@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://san-diego-ca.toysfortots.org/local-coordinator-sites/lco-sites/donate-toys.aspx",
+                        "extracted_on": "2021-10-10T21:07:21.194000",
+                        "updated_on": "2021-10-10T21:07:21.194000"
+                    }
+                ]
+            },
+            {
+                "value": "us2336791@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://san-diego-ca.toysfortots.org/local-coordinator-sites/lco-sites/donate-toys.aspx",
+                        "extracted_on": "2021-10-10T21:07:21.194000",
+                        "updated_on": "2021-10-10T21:07:21.194000"
+                    }
+                ]
+            },
+            {
+                "value": "businessconduct@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.in/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-10-15T11:01:06.627000",
+                        "updated_on": "2021-10-15T11:01:06.627000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "starbucks.gaesteservice@amrest.eu",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "ukinfo@support.starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "service.clientele@starbucks.fr",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "fkissell@afce.com",
+                "full_name": "Audrey Lincoff",
+                "title": "Public Affairs Director",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "abernhard@waholdings.com",
+                "full_name": "Bernhard, Allison",
+                "title": "Tenant Service Coordinator",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "beth_madaray@westernunion.com",
+                "full_name": "Madaray, Beth",
+                "title": "Sales Executive",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "brettnirider@goodsamhealth.org",
+                "full_name": "Nirider, Brett",
+                "title": "the Education Member",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "danielleplancich@goodsamhealth.org",
+                "full_name": "Plancich, Danielle",
+                "title": "Application Analyst",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "jkeene@waholdings.com",
+                "full_name": "Keene, Josh",
+                "title": "Senior Property Manager Assistant Vice...",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "jorge.rendon@clearwire.com",
+                "full_name": "Rendon, Jorge",
+                "title": "Realtor",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://facebook.com/starbucks",
+            "instagram": "https://instagram.com/starbucks",
+            "linkedin": "https://www.linkedin.com/company/starbucks",
+            "twitter": "https://twitter.com/starbucks/",
+            "youtube": "https://www.youtube.com/user/Starbucks"
+        },
+        "site_data": {
+            "description": "More than just great coffee. Explore the menu, sign up for Starbucks\u00ae Rewards, manage your gift card and more.",
+            "title": "Starbucks Coffee Company"
+        }
+    },
+    {
+        "query": "https://www.starbucks.com/store-locator/store/1008735/",
+        "domain": "starbucks.com",
+        "emails": [
+            {
+                "value": "applicantaccommodation@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/careers/international-careers",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/careers/find-a-job/corporate",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://fr.starbucks.ca/carrieres/find-a-job/corporate",
+                        "extracted_on": "2021-10-17T16:09:28.082000",
+                        "updated_on": "2021-10-17T16:09:28.082000"
+                    }
+                ]
+            },
+            {
+                "value": "privacy@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/privacy-statement",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.nl/about-us/company-information/online-policies/privacy-statement",
+                        "extracted_on": "2021-10-16T03:22:28.381000",
+                        "updated_on": "2021-10-16T03:22:28.381000"
+                    }
+                ]
+            },
+            {
+                "value": "info@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://consciouskitchen513.com/?page_id=129",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    }
+                ]
+            },
+            {
+                "value": "u003einfo@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://fr.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-10-17T16:09:28.082000",
+                        "updated_on": "2021-10-17T16:09:28.082000"
+                    }
+                ]
+            },
+            {
+                "value": "ukinfo@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.kingstoncentre.co.uk/",
+                        "extracted_on": "2021-09-11T13:03:59.914000",
+                        "updated_on": "2021-09-11T13:03:59.914000"
+                    },
+                    {
+                        "ref": "https://www.newmersey.co.uk/",
+                        "extracted_on": "2021-09-11T13:03:59.914000",
+                        "updated_on": "2021-09-11T13:03:59.914000"
+                    },
+                    {
+                        "ref": "https://www.broughtonshopping.co.uk/",
+                        "extracted_on": "2021-10-17T18:10:22.327000",
+                        "updated_on": "2021-10-17T18:10:22.327000"
+                    }
+                ]
+            },
+            {
+                "value": "ethicsandcompliance@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.az/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-09-14T10:13:00.355000",
+                        "updated_on": "2021-09-14T10:13:00.355000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.bg/about-us/company-information/business-ethics",
+                        "extracted_on": "2021-10-06T07:57:17.794000",
+                        "updated_on": "2021-10-06T07:57:17.794000"
+                    },
+                    {
+                        "ref": "https://www.starbucksromania.ro/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-10-07T15:00:15.468000",
+                        "updated_on": "2021-10-07T15:00:40.039000"
+                    }
+                ]
+            },
+            {
+                "value": "press@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.evolutionfresh.com/contact-us/",
+                        "extracted_on": "2021-10-07T22:17:31.124000",
+                        "updated_on": "2021-10-07T22:17:31.124000"
+                    },
+                    {
+                        "ref": "https://stories.starbucks.com/",
+                        "extracted_on": "2022-02-23T00:28:43.969000",
+                        "updated_on": "2022-02-23T00:28:43.969000"
+                    },
+                    {
+                        "ref": "https://stories.starbucks.com/contact/",
+                        "extracted_on": "2022-02-23T00:28:43.969000",
+                        "updated_on": "2022-02-23T00:28:43.969000"
+                    }
+                ]
+            },
+            {
+                "value": "us2601617@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://san-diego-ca.toysfortots.org/local-coordinator-sites/lco-sites/donate-toys.aspx",
+                        "extracted_on": "2021-10-10T21:07:21.194000",
+                        "updated_on": "2021-10-10T21:07:21.194000"
+                    }
+                ]
+            },
+            {
+                "value": "us2336791@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://san-diego-ca.toysfortots.org/local-coordinator-sites/lco-sites/donate-toys.aspx",
+                        "extracted_on": "2021-10-10T21:07:21.194000",
+                        "updated_on": "2021-10-10T21:07:21.194000"
+                    }
+                ]
+            },
+            {
+                "value": "businessconduct@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.in/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-10-15T11:01:06.627000",
+                        "updated_on": "2021-10-15T11:01:06.627000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "starbucks.gaesteservice@amrest.eu",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "ukinfo@support.starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "service.clientele@starbucks.fr",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "fkissell@afce.com",
+                "full_name": "Audrey Lincoff",
+                "title": "Public Affairs Director",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "abernhard@waholdings.com",
+                "full_name": "Bernhard, Allison",
+                "title": "Tenant Service Coordinator",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "beth_madaray@westernunion.com",
+                "full_name": "Madaray, Beth",
+                "title": "Sales Executive",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "brettnirider@goodsamhealth.org",
+                "full_name": "Nirider, Brett",
+                "title": "the Education Member",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "danielleplancich@goodsamhealth.org",
+                "full_name": "Plancich, Danielle",
+                "title": "Application Analyst",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "jkeene@waholdings.com",
+                "full_name": "Keene, Josh",
+                "title": "Senior Property Manager Assistant Vice...",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "jorge.rendon@clearwire.com",
+                "full_name": "Rendon, Jorge",
+                "title": "Realtor",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://facebook.com/starbucks",
+            "instagram": "https://instagram.com/starbucks",
+            "linkedin": "https://www.linkedin.com/company/starbucks",
+            "twitter": "https://twitter.com/starbucks/",
+            "youtube": "https://www.youtube.com/user/Starbucks"
+        },
+        "site_data": {
+            "description": "More than just great coffee. Explore the menu, sign up for Starbucks\u00ae Rewards, manage your gift card and more.",
+            "title": "Starbucks Coffee Company"
+        }
+    },
+    {
+        "query": "https://www.starbucks.com/store-locator/store/16897/",
+        "domain": "starbucks.com",
+        "emails": [
+            {
+                "value": "applicantaccommodation@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/careers/international-careers",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/careers/find-a-job/corporate",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://fr.starbucks.ca/carrieres/find-a-job/corporate",
+                        "extracted_on": "2021-10-17T16:09:28.082000",
+                        "updated_on": "2021-10-17T16:09:28.082000"
+                    }
+                ]
+            },
+            {
+                "value": "privacy@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/privacy-statement",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.nl/about-us/company-information/online-policies/privacy-statement",
+                        "extracted_on": "2021-10-16T03:22:28.381000",
+                        "updated_on": "2021-10-16T03:22:28.381000"
+                    }
+                ]
+            },
+            {
+                "value": "info@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://consciouskitchen513.com/?page_id=129",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    }
+                ]
+            },
+            {
+                "value": "u003einfo@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-09-23T01:33:37.256000",
+                        "updated_on": "2021-09-23T01:33:37.256000"
+                    },
+                    {
+                        "ref": "https://fr.starbucks.ca/terms/starbucks-terms-of-use",
+                        "extracted_on": "2021-10-17T16:09:28.082000",
+                        "updated_on": "2021-10-17T16:09:28.082000"
+                    }
+                ]
+            },
+            {
+                "value": "ukinfo@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.kingstoncentre.co.uk/",
+                        "extracted_on": "2021-09-11T13:03:59.914000",
+                        "updated_on": "2021-09-11T13:03:59.914000"
+                    },
+                    {
+                        "ref": "https://www.newmersey.co.uk/",
+                        "extracted_on": "2021-09-11T13:03:59.914000",
+                        "updated_on": "2021-09-11T13:03:59.914000"
+                    },
+                    {
+                        "ref": "https://www.broughtonshopping.co.uk/",
+                        "extracted_on": "2021-10-17T18:10:22.327000",
+                        "updated_on": "2021-10-17T18:10:22.327000"
+                    }
+                ]
+            },
+            {
+                "value": "ethicsandcompliance@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.az/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-09-14T10:13:00.355000",
+                        "updated_on": "2021-09-14T10:13:00.355000"
+                    },
+                    {
+                        "ref": "https://www.starbucks.bg/about-us/company-information/business-ethics",
+                        "extracted_on": "2021-10-06T07:57:17.794000",
+                        "updated_on": "2021-10-06T07:57:17.794000"
+                    },
+                    {
+                        "ref": "https://www.starbucksromania.ro/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-10-07T15:00:15.468000",
+                        "updated_on": "2021-10-07T15:00:40.039000"
+                    }
+                ]
+            },
+            {
+                "value": "press@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.evolutionfresh.com/contact-us/",
+                        "extracted_on": "2021-10-07T22:17:31.124000",
+                        "updated_on": "2021-10-07T22:17:31.124000"
+                    },
+                    {
+                        "ref": "https://stories.starbucks.com/",
+                        "extracted_on": "2022-02-23T00:28:43.969000",
+                        "updated_on": "2022-02-23T00:28:43.969000"
+                    },
+                    {
+                        "ref": "https://stories.starbucks.com/contact/",
+                        "extracted_on": "2022-02-23T00:28:43.969000",
+                        "updated_on": "2022-02-23T00:28:43.969000"
+                    }
+                ]
+            },
+            {
+                "value": "us2601617@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://san-diego-ca.toysfortots.org/local-coordinator-sites/lco-sites/donate-toys.aspx",
+                        "extracted_on": "2021-10-10T21:07:21.194000",
+                        "updated_on": "2021-10-10T21:07:21.194000"
+                    }
+                ]
+            },
+            {
+                "value": "us2336791@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://san-diego-ca.toysfortots.org/local-coordinator-sites/lco-sites/donate-toys.aspx",
+                        "extracted_on": "2021-10-10T21:07:21.194000",
+                        "updated_on": "2021-10-10T21:07:21.194000"
+                    }
+                ]
+            },
+            {
+                "value": "businessconduct@starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.in/about-us/company-information/business-ethics-and-compliance",
+                        "extracted_on": "2021-10-15T11:01:06.627000",
+                        "updated_on": "2021-10-15T11:01:06.627000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "starbucks.gaesteservice@amrest.eu",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "ukinfo@support.starbucks.com",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-08-01T12:32:53.296000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "service.clientele@starbucks.fr",
+                "sources": [
+                    {
+                        "ref": "https://www.starbucks.com/terms/privacy-policy",
+                        "extracted_on": "2021-10-20T11:55:23.348000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "fkissell@afce.com",
+                "full_name": "Audrey Lincoff",
+                "title": "Public Affairs Director",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "abernhard@waholdings.com",
+                "full_name": "Bernhard, Allison",
+                "title": "Tenant Service Coordinator",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "beth_madaray@westernunion.com",
+                "full_name": "Madaray, Beth",
+                "title": "Sales Executive",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "brettnirider@goodsamhealth.org",
+                "full_name": "Nirider, Brett",
+                "title": "the Education Member",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "danielleplancich@goodsamhealth.org",
+                "full_name": "Plancich, Danielle",
+                "title": "Application Analyst",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "jkeene@waholdings.com",
+                "full_name": "Keene, Josh",
+                "title": "Senior Property Manager Assistant Vice...",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "jorge.rendon@clearwire.com",
+                "full_name": "Rendon, Jorge",
+                "title": "Realtor",
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://facebook.com/starbucks",
+            "instagram": "https://instagram.com/starbucks",
+            "linkedin": "https://www.linkedin.com/company/starbucks",
+            "twitter": "https://twitter.com/starbucks/",
+            "youtube": "https://www.youtube.com/user/Starbucks"
+        },
+        "site_data": {
+            "description": "More than just great coffee. Explore the menu, sign up for Starbucks\u00ae Rewards, manage your gift card and more.",
+            "title": "Starbucks Coffee Company"
+        }
+    },
+    {
+        "query": "http://www.pekersbar.com/",
+        "domain": "pekersbar.com",
+        "socials": {
+            "facebook": "http://www.facebook.com/PekersBar"
+        },
+        "site_data": {
+            "title": "Welcome to Pekers Bar Online!"
+        }
+    },
+    {
+        "query": "http://lalalandkindcafe.com/",
+        "domain": "lalalandkindcafe.com",
+        "emails": [
+            {
+                "value": "info@lalalandkindcafe.com",
+                "sources": [
+                    {
+                        "ref": "https://lalalandkindcafe.com/",
+                        "extracted_on": "2021-10-07T09:20:58.317000",
+                        "updated_on": "2021-10-07T09:20:58.317000"
+                    },
+                    {
+                        "ref": "https://lalalandkindcafe.com/store/",
+                        "extracted_on": "2021-10-07T09:20:58.317000",
+                        "updated_on": "2021-10-07T09:20:58.317000"
+                    },
+                    {
+                        "ref": "https://lalalandkindcafe.com/locations/",
+                        "extracted_on": "2021-10-07T09:20:58.317000",
+                        "updated_on": "2021-10-07T09:20:58.317000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "http://www.facebook.com/lalalandkindcafe/",
+            "instagram": "https://www.instagram.com/lalalandkindcafe"
+        },
+        "site_data": {
+            "generator": "Powered by LayerSlider 6.11.7 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",
+            "title": "La La Land Kind Cafe \u2013 Organic cafe with the purpose of hiring + mentoring foster youth"
+        }
+    },
+    {
+        "query": "https://www.mrmissterdtx.com/",
+        "domain": "mrmissterdtx.com",
+        "emails": [
+            {
+                "value": "hello@mrmissterdtx.com",
+                "sources": [
+                    {
+                        "ref": "https://www.mrmissterdtx.com/",
+                        "extracted_on": "2022-03-21T12:08:47.188000",
+                        "updated_on": "2022-03-21T12:08:47.188000"
+                    }
+                ]
+            }
+        ],
+        "site_data": {
+            "generator": "Wix.com Website Builder",
+            "title": "Home | Mr. Misster Dallas"
+        }
+    },
+    {
+        "query": "http://www.jrsdallas.com/",
+        "domain": "jrsdallas.com",
+        "phones": [
+            {
+                "value": "1200",
+                "sources": [
+                    {
+                        "ref": "http://www.jrsdallas.com/",
+                        "extracted_on": "2021-10-15T11:01:06.627000",
+                        "updated_on": "2021-10-15T11:01:06.627000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/JrsDallas",
+            "twitter": "https://twitter.com/jrsdallas",
+            "instagram": "https://www.instagram.com/p"
+        },
+        "site_data": {
+            "description": "",
+            "generator": "Jr's Dallas v.1.0",
+            "keywords": "",
+            "title": "JR's Bar and Grill Dallas | Bar and Restaurant"
+        }
+    },
+    {
+        "query": "http://www.sevys.com/",
+        "domain": "sevys.com",
+        "external_emails": [
+            {
+                "value": "sevyscatering@aol.com",
+                "sources": [
+                    {
+                        "ref": "https://sevys.com/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://sevys.com/news-1/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://sevys.com/contact-1",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://sevys.com/news-1",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/Sevys-Grill-108030515903804/",
+            "instagram": "https://www.instagram.com/sevysgrill"
+        },
+        "site_data": {
+            "description": "",
+            "title": "Sevy's Grill"
+        }
+    },
+    {
+        "query": "http://ilbraccorestaurant.com/",
+        "domain": "ilbraccorestaurant.com",
+        "emails": [
+            {
+                "value": "parkcities@ilbraccorestaurant.com",
+                "sources": [
+                    {
+                        "ref": "https://www.ilbraccorestaurant.com/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-03T00:42:55.184000",
+                        "updated_on": "2022-01-03T00:42:55.184000"
+                    }
+                ]
+            },
+            {
+                "value": "careers@ilbraccorestaurant.com",
+                "sources": [
+                    {
+                        "ref": "https://www.ilbraccorestaurant.com/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/Il-Bracco-Restaurant-622107241549295/",
+            "instagram": "http://instagram.com/ilbraccoparkcities"
+        },
+        "site_data": {
+            "description": "il Bracco is an Italian restaurant in the heart of Dallas. We serve fresh classic Italian dishes, featuring pastas, fish and proteins butchered in-house.",
+            "generator": "WordPress 5.7.2",
+            "title": "Home - Il Bracco"
+        },
+        "phones": [
+            {
+                "value": "+1 214-361-0100",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-03T00:42:55.184000",
+                        "updated_on": "2022-01-03T00:42:55.184000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "http://rd-kitchen.com/locations/dallas/",
+        "domain": "rd-kitchen.com",
+        "external_emails": [
+            {
+                "value": "guestservices@hillstone.com",
+                "sources": [
+                    {
+                        "ref": "https://rd-kitchen.com/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://rd-kitchen.com/locations/dallas/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://rd-kitchen.com/contact/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://rd-kitchen.com/locations/santamonica/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://rd-kitchen.com/giftcards/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "hillstone@buyatab.com",
+                "sources": [
+                    {
+                        "ref": "https://rd-kitchen.com/giftcards/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/rdkitchensantamonica",
+            "instagram": "https://www.instagram.com/therdkitchens"
+        },
+        "site_data": {
+            "description": "Enjoy artisanal sandwiches, hearty salads and comforting entrees in exceptional, modern spaces from Napa to Dallas.",
+            "generator": "nanoc 4.9.4",
+            "title": "R+D Kitchen"
+        },
+        "phones": [
+            {
+                "value": "8002309787",
+                "sources": [
+                    {
+                        "ref": "https://rd-kitchen.com/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://rd-kitchen.com/locations/santamonica/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://rd-kitchen.com/locations/newportbeach/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "3103953314",
+                "sources": [
+                    {
+                        "ref": "https://rd-kitchen.com/locations/santamonica/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "9492190555",
+                "sources": [
+                    {
+                        "ref": "https://rd-kitchen.com/locations/newportbeach/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "18883039134",
+                "sources": [
+                    {
+                        "ref": "https://rd-kitchen.com/giftcards/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "7079450920",
+                "sources": [
+                    {
+                        "ref": "https://rd-kitchen.com/locations/yountville/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "2148907900",
+                "sources": [
+                    {
+                        "ref": "https://rd-kitchen.com/locations/dallas/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "http://www.mlcdallas.com/",
+        "domain": "mlcdallas.com",
+        "emails": [
+            {
+                "value": "mlc@mlcdallas.com",
+                "sources": [
+                    {
+                        "ref": "http://www.mlcdallas.com/",
+                        "extracted_on": "2021-11-30T07:51:52.031000",
+                        "updated_on": "2021-11-30T07:51:52.031000"
+                    },
+                    {
+                        "ref": "http://www.mlcdallas.com/dinner-menu",
+                        "extracted_on": "2021-11-30T07:51:52.031000",
+                        "updated_on": "2021-11-30T07:51:52.031000"
+                    },
+                    {
+                        "ref": "http://www.mlcdallas.com/dinner-menu-1",
+                        "extracted_on": "2021-11-30T07:51:52.031000",
+                        "updated_on": "2021-11-30T07:51:52.031000"
+                    }
+                ]
+            }
+        ],
+        "site_data": {
+            "description": "Nick Badovinus' latest concept. Seafood Restaurant in Dallas, Texas",
+            "title": "Montlake Cut"
+        }
+    },
+    {
+        "query": "http://hudsonhousehp.com/",
+        "domain": "hudsonhousehp.com",
+        "phones": [
+            {
+                "value": "2145832255",
+                "sources": [
+                    {
+                        "ref": "https://www.hudsonhousehp.com/",
+                        "extracted_on": "2021-11-30T07:51:52.031000",
+                        "updated_on": "2022-03-21T12:08:47.188000"
+                    }
+                ]
+            },
+            {
+                "value": "2147025002",
+                "sources": [
+                    {
+                        "ref": "https://www.hudsonhousehp.com/",
+                        "extracted_on": "2021-11-30T07:51:52.031000",
+                        "updated_on": "2022-03-21T12:08:47.188000"
+                    }
+                ]
+            },
+            {
+                "value": "2143632882",
+                "sources": [
+                    {
+                        "ref": "https://www.hudsonhousehp.com/",
+                        "extracted_on": "2021-11-30T07:51:52.031000",
+                        "updated_on": "2022-03-21T12:08:47.188000"
+                    }
+                ]
+            }
+        ],
+        "emails": [
+            {
+                "value": "events@hudsonhousehp.com",
+                "sources": [
+                    {
+                        "ref": "https://www.hudsonhousehp.com/catering/",
+                        "extracted_on": "2021-11-30T07:51:52.031000",
+                        "updated_on": "2022-03-21T12:08:47.188000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "http://www.facebook.com/HudsonHouseHP",
+            "instagram": "http://instagram.com/thehudsonhouse",
+            "linkedin": "https://www.linkedin.com/company/vandelay-hospitality-group/",
+            "twitter": "https://twitter.com/VandelayHG"
+        },
+        "site_data": {
+            "description": "Inspired by the rich culinary history of the Hudson Valley, Dallas based Hudson House aims to pair that style of comfort food with the neighborhood vibe of the West Village in New York City.",
+            "keywords": "Oysters, Dallas Oysters, Dallas Restaurant,  Oysters in Dallas, Oysters near me, Best Oysters, Best Cheeseburger, Where to eat Oysters in Dallas",
+            "title": "Hudson House"
+        },
+        "external_emails": [
+            {
+                "value": "careers@vandelayhospitality.com",
+                "sources": [
+                    {
+                        "ref": "https://www.hudsonhousehp.com/careers/",
+                        "extracted_on": "2022-03-14T04:47:07.590000",
+                        "updated_on": "2022-03-14T04:47:07.590000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.truefoodkitchen.com/locations/dallas?utm_source=GMBlisting&utm_medium=organic&utm_content=website",
+        "domain": "truefoodkitchen.com",
+        "emails": [
+            {
+                "value": "pr@truefoodkitchen.com",
+                "sources": [
+                    {
+                        "ref": "https://www.truefoodkitchen.com/contact/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.truefoodkitchen.com/talktotrue/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "info@truefoodkitchen.com",
+                "sources": [
+                    {
+                        "ref": "https://www.truefoodkitchen.com/privacy/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "amy@truefoodkitchen.com",
+                "full_name": "Amy Legere",
+                "title": "recruiting manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/TrueFoodKitchen",
+            "instagram": "http://instagram.com/livetruefood"
+        },
+        "site_data": {
+            "description": "Dine in or order online to enjoy our healthy, chef-driven, seasonal food & drinks. Our brunch, lunch, dinner & catering menus offer organic, gluten-free, vegan & vegetarian options",
+            "generator": "wordpress",
+            "title": "True Food Kitchen | Health-driven Seasonal Restaurant & Scratch Bar"
+        },
+        "phones": [
+            {
+                "value": "6027743488",
+                "sources": [
+                    {
+                        "ref": "https://www.truefoodkitchen.com/locations/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "4802654500",
+                "sources": [
+                    {
+                        "ref": "https://www.truefoodkitchen.com/locations/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "6027423000",
+                "sources": [
+                    {
+                        "ref": "https://www.truefoodkitchen.com/locations/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "4802120175",
+                "sources": [
+                    {
+                        "ref": "https://www.truefoodkitchen.com/privacy/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.truefoodkitchen.com/privacy/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://www.truefoodkitchen.com/contact/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "+1 480-212-0175",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2022-01-03T01:12:00.219000",
+                        "updated_on": "2022-01-03T01:12:00.219000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://locations.bucadibeppo.com/us/tx/dallas/7843-park-ln?utm_source=google&utm_campaign=local-listing&utm_medium=organic&utm_content=gmb&y_source=1_NDgxNzY1MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+        "domain": "locations.bucadibeppo.com",
+        "site_data": {
+            "description": "Browse all Buca di Beppo locations. Enjoy our authentic Italian food served family style. Host your next party at Buca or order catering.",
+            "keywords": "",
+            "title": "Buca di Beppo locations | Family Style Dining, Catering"
+        },
+        "phones": [
+            {
+                "value": "17045425146",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/nc/pineville/10915-carolina-place-pkwy",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-10T14:53:00.275000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/nc/pineville/10915-carolina-place-pkwy",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-10T14:53:00.275000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/nc/pineville/10915-carolina-place-pkwy",
+                        "extracted_on": "2021-10-02T10:21:48.201000",
+                        "updated_on": "2022-05-10T14:53:00.275000"
+                    }
+                ]
+            },
+            {
+                "value": "18779552822",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/nc/pineville/10915-carolina-place-pkwy",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-10T14:53:00.275000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ga/alpharetta/2335-mansell-rd",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/dc/washington/1825-connecticut-ave-nw",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-04-22T16:03:59.765000"
+                    }
+                ]
+            },
+            {
+                "value": "17706439463",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ga/alpharetta/2335-mansell-rd",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ga/alpharetta/2335-mansell-rd",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ga/alpharetta/2335-mansell-rd",
+                        "extracted_on": "2021-10-02T09:22:11.187000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    }
+                ]
+            },
+            {
+                "value": "12022328466",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/dc/washington/1825-connecticut-ave-nw",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-04-22T16:03:59.765000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/dc/washington/1825-connecticut-ave-nw",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-04-22T16:03:59.765000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/dc/washington/1825-connecticut-ave-nw",
+                        "extracted_on": "2021-10-02T09:22:11.187000",
+                        "updated_on": "2022-04-22T16:03:59.765000"
+                    }
+                ]
+            },
+            {
+                "value": "15058722822",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/nm/albuquerque/6520-americas-pkwy-ne",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/nm/albuquerque/6520-americas-pkwy-ne",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/nm/albuquerque/6520-americas-pkwy-ne",
+                        "extracted_on": "2021-10-02T09:22:11.187000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    }
+                ]
+            },
+            {
+                "value": "15024932426",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ky/louisville/2051-s-hurstbourne-pkwy",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ky/louisville/2051-s-hurstbourne-pkwy",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ky/louisville/2051-s-hurstbourne-pkwy",
+                        "extracted_on": "2021-10-06T08:36:10.962000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    }
+                ]
+            },
+            {
+                "value": "18169316548",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/mo/kansas-city/310-w-47th-st",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-11T12:33:41.369000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/mo/kansas-city/310-w-47th-st",
+                        "extracted_on": "2021-09-18T14:41:20.784000",
+                        "updated_on": "2022-05-11T12:33:41.369000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/mo/kansas-city/310-w-47th-st",
+                        "extracted_on": "2021-10-03T17:32:11.238000",
+                        "updated_on": "2022-05-11T12:33:41.369000"
+                    }
+                ]
+            },
+            {
+                "value": "15184592822",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ny/colonie/44-wolf-rd",
+                        "extracted_on": "2021-10-02T09:22:11.187000",
+                        "updated_on": "2022-05-11T00:00:20.955000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ny/colonie/44-wolf-rd",
+                        "extracted_on": "2021-10-02T09:22:11.187000",
+                        "updated_on": "2022-05-11T00:00:20.955000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/ny/colonie/44-wolf-rd",
+                        "extracted_on": "2021-10-02T10:21:48.201000",
+                        "updated_on": "2022-05-11T00:00:20.955000"
+                    }
+                ]
+            },
+            {
+                "value": "16157781321",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/tn/franklin/1722-galleria-blvd",
+                        "extracted_on": "2021-10-02T09:22:11.187000",
+                        "updated_on": "2022-05-06T10:48:13.484000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/tn/franklin/1722-galleria-blvd",
+                        "extracted_on": "2021-10-02T09:22:11.187000",
+                        "updated_on": "2022-05-06T10:48:13.484000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/tn/franklin/1722-galleria-blvd",
+                        "extracted_on": "2021-10-07T03:52:13.577000",
+                        "updated_on": "2022-05-06T10:48:13.484000"
+                    }
+                ]
+            },
+            {
+                "value": "18085910800",
+                "sources": [
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/hi/honolulu/1030-auahi-st",
+                        "extracted_on": "2021-10-02T10:21:48.201000",
+                        "updated_on": "2022-05-08T11:38:59.568000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/hi/honolulu/1030-auahi-st",
+                        "extracted_on": "2021-10-02T10:21:48.201000",
+                        "updated_on": "2022-05-08T11:38:59.568000"
+                    },
+                    {
+                        "ref": "https://locations.bucadibeppo.com/us/hi/honolulu/1030-auahi-st",
+                        "extracted_on": "2021-10-03T17:32:11.238000",
+                        "updated_on": "2022-05-08T11:38:59.568000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.seasons52.com/locations/tx/dallas/dallas-northpark/4526?cmpid=br:s52_ag:ie_ch:loc_ca:S52GMB_sn:gmb_gt:dallas-tx-4526_pl:locurl_rd:1024",
+        "domain": "seasons52.com",
+        "emails": [
+            {
+                "value": "jdoe@seasons52.com",
+                "sources": [
+                    {
+                        "ref": "duckduckgo",
+                        "extracted_on": "2021-09-05T22:17:49.338000",
+                        "updated_on": "2021-09-05T22:17:49.338000"
+                    }
+                ]
+            },
+            {
+                "value": "jane_doe@seasons52.com",
+                "sources": [
+                    {
+                        "ref": "duckduckgo",
+                        "extracted_on": "2021-09-05T22:17:49.338000",
+                        "updated_on": "2021-09-05T22:17:49.338000"
+                    }
+                ]
+            },
+            {
+                "value": "asteenhoek@seasons52.com",
+                "full_name": "Annie Steenhoek",
+                "title": "server",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "jwinner@seasons52.com",
+                "full_name": "Joseph Winner",
+                "title": "managing partner",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "jwhite@seasons52.com",
+                "full_name": "Jessica White",
+                "title": "service manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "sanderson@seasons52.com",
+                "full_name": "Shannon Anderson",
+                "title": "Field Sales Manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:14.476000",
+                        "updated_on": "2021-11-13T19:16:14.476000"
+                    }
+                ]
+            },
+            {
+                "value": "llawrence@seasons52.com",
+                "full_name": "Lisa Lawrence",
+                "title": "Brand Manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:14.476000",
+                        "updated_on": "2021-11-13T19:16:14.476000"
+                    }
+                ]
+            },
+            {
+                "value": "sjudge@seasons52.com",
+                "full_name": "Stephen Judge",
+                "title": "Chief Executive Officer",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-14T15:28:56.660000",
+                        "updated_on": "2021-11-14T15:28:56.660000"
+                    }
+                ]
+            },
+            {
+                "value": "gmiliotes@seasons52.com",
+                "full_name": "George Miliotes",
+                "title": "Beverage Director",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-14T15:28:56.660000",
+                        "updated_on": "2021-11-14T15:28:56.660000"
+                    }
+                ]
+            },
+            {
+                "value": "cpleau@seasons52.com",
+                "full_name": "Cliff Pleau",
+                "title": "Executive Chef",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-14T15:28:56.660000",
+                        "updated_on": "2021-11-14T15:28:56.660000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.maggianos.com/locations/texas/dallas/205-northpark-center?utm_source=google&utm_medium=organic&utm_campaign=Maggianos",
+        "domain": "maggianos.com",
+        "emails": [
+            {
+                "value": "scottsdale.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "sanjose.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "southcoastplaza.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "thegrove.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "woodlandhills.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "denver.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "denversouth.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "chevychase.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "pointeorlando.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "jacksonville.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "bocaraton.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "tampa.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "buckhead.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "cumberland.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "perimeter.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "chicago.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "naperville.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "vernonhills.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "oakbrook.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "schaumburg.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "oldorchard.delivery@maggianos.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "mg0218.roosevelt-generalmanager@brinker.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "mg0219del@brinker.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "mg0219delivery@brinker.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "maggianos.sanantoniodelivery@brinker.com",
+                "sources": [
+                    {
+                        "ref": "https://maggianos.com/catering",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "MG0182@MAGGIANOS.COM",
+                "full_name": "Tony  Roethler",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-04T17:34:37.106000",
+                        "updated_on": "2022-03-04T17:34:37.106000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/Maggianos",
+            "instagram": "https://instagram.com/maggianoslittleitaly",
+            "twitter": "https://twitter.com/Maggianos",
+            "youtube": "https://www.youtube.com/user/MaggianosLittleItaly",
+            "linkedin": "https://www.linkedin.com/company/maggiano"
+        },
+        "site_data": {
+            "description": "Maggiano\u2019s Little Italy is your destination restaurant for Italian-American dining, banquets, and catering. Find locations near you or order to-go!",
+            "title": "Maggiano's Little Italy | Italian-American Restaurant | Banquets & Catering"
+        }
+    },
+    {
+        "query": "http://www.konagrill.com/locations/dallas-tx",
+        "domain": "konagrill.com",
+        "socials": {
+            "facebook": "https://www.facebook.com/konagrill",
+            "instagram": "http://instagram.com/konagrill",
+            "linkedin": "https://www.linkedin.com/company/kona-grill",
+            "twitter": "http://twitter.com/konagrill"
+        },
+        "site_data": {
+            "description": "Classic American Grill With Fresh Seafood, Great Steak & Chops, Complemented By Best Choice Of Sushi & Margaritas At Any Grill In America",
+            "generator": "concrete5 - 8.2.1",
+            "keywords": "kona grill, kona grill fashion square, kona grill cincinnati, kona grill ridgedale, kona grill minnetonka, kona grill scottsdale, kona grill san tan, kona grill liberty center, kona grill perkins rowe, kona grill north star,",
+            "title": "Kona Grill | America's Grill | Seafood | Steak | Sushi | Margaritas"
+        },
+        "external_emails": [
+            {
+                "value": "info@togrp.com",
+                "sources": [
+                    {
+                        "ref": "https://www.konagrill.com/more/privacy-policy",
+                        "extracted_on": "2021-08-20T14:23:28.109000",
+                        "updated_on": "2021-08-20T14:23:28.109000"
+                    }
+                ]
+            },
+            {
+                "value": "Dempsey@konagrill.Com",
+                "full_name": "Donald Dempsey",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-03T18:58:06.318000",
+                        "updated_on": "2022-03-03T18:58:06.318000"
+                    }
+                ]
+            },
+            {
+                "value": "Marcusj@konagrill.Com",
+                "full_name": "Marcus E Jundt",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-03T18:58:06.318000",
+                        "updated_on": "2022-03-03T18:58:06.318000"
+                    }
+                ]
+            }
+        ],
+        "emails": [
+            {
+                "value": "grill@konagrill.com",
+                "full_name": "Grill Boise",
+                "title": "assistant general manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "kona@konagrill.com",
+                "full_name": "Jony Kona Kona",
+                "title": "line cook",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "rcheney@konagrill.com",
+                "full_name": "Robert W Cheney",
+                "title": "assistant general manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "jennifer.ezra@konagrill.com",
+                "full_name": "Jennifer Ezra",
+                "title": "professional organizer",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "salomone@konagrill.com",
+                "full_name": "Julie Salomone",
+                "title": "human resources",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "ratcliff@konagrill.com",
+                "full_name": "Teresa Ratcliff",
+                "title": "architecture and development manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "pyun@konagrill.com",
+                "full_name": "Cindy Pyun",
+                "title": "director of training",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "pacinelli@konagrill.com",
+                "full_name": "Andria Pacinelli",
+                "title": "sr. director of development",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "tellez@konagrill.com",
+                "full_name": "Victoria Tellez",
+                "title": "administrative assistant",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "hing@konagrill.com",
+                "full_name": "Christi Hing",
+                "title": "chief financial officer",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "http://www.thetacojoint.com/",
+        "domain": "thetacojoint.com",
+        "socials": {
+            "facebook": "https://www.facebook.com/thetacojointdallas",
+            "twitter": "http://twitter.com/tacojoint",
+            "instagram": "https://www.instagram.com/thetacojoint"
+        },
+        "site_data": {
+            "generator": "wordpress",
+            "keywords": "tex-mex tex-mex food tex-mex restaurant tex-mex lakewood tex-mex richardson tex-mex preston center tex-mex dallas tex-mex DFW tex-mex east dallas tex-mex mockingbird taco joint lakewood taco joint peak street taco joint peak taco joint richardson taco joint preston taco joint preston center taco joint east dallas taco joint mockingbird taco franchise taco joint franchise tex-mex franchise tex-mex franchise opportunity Corey McCauley Corey McCauley Taco Joint Corey McCauley franchise family-friendly family restaurant family-friendly tex-mex famiy-friendly restaurant dallas outstanding customer service thetacojoint.com the taco joint breakfast tacos dallas the gaston grab jalapeno ranch all-day breakfast Porkiladas SMU Alamo Draft House Alamo Draft House Richardson Lower Greenville",
+            "title": "Home - Taco Joint"
+        },
+        "emails": [
+            {
+                "value": "jobs@thetacojoint.com",
+                "sources": [
+                    {
+                        "ref": "https://thetacojoint.com/comments/",
+                        "extracted_on": "2022-04-20T08:33:41.695000",
+                        "updated_on": "2022-04-20T08:33:41.695000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "jeffreykowitz@gmail.com",
+                "sources": [
+                    {
+                        "ref": "https://thetacojoint.com/comments/",
+                        "extracted_on": "2022-04-20T08:33:41.695000",
+                        "updated_on": "2022-04-20T08:33:41.695000"
+                    }
+                ]
+            },
+            {
+                "value": "tacojointlw@gmail.com",
+                "sources": [
+                    {
+                        "ref": "https://thetacojoint.com/comments/",
+                        "extracted_on": "2022-04-20T08:33:41.695000",
+                        "updated_on": "2022-04-20T08:33:41.695000"
+                    }
+                ]
+            },
+            {
+                "value": "cdm033@yahoo.com",
+                "sources": [
+                    {
+                        "ref": "https://thetacojoint.com/comments/",
+                        "extracted_on": "2022-04-20T08:33:41.695000",
+                        "updated_on": "2022-04-20T08:33:41.695000"
+                    }
+                ]
+            },
+            {
+                "value": "mhdevelopmentco@gmail.com",
+                "sources": [
+                    {
+                        "ref": "https://thetacojoint.com/comments/",
+                        "extracted_on": "2022-04-20T08:33:41.695000",
+                        "updated_on": "2022-04-20T08:33:41.695000"
+                    }
+                ]
+            },
+            {
+                "value": "tacojointpreston@gmail.com",
+                "sources": [
+                    {
+                        "ref": "https://thetacojoint.com/comments/",
+                        "extracted_on": "2022-04-20T08:33:41.695000",
+                        "updated_on": "2022-04-20T08:33:41.695000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.nordstrom.com/store-details/nordstrom-northpark-center?utm_source=google&utm_medium=organic&utm_campaign=food&utm_content=22723&utm_channel=low_nd_seo_local&sp_source=google&sp_campaign=food",
+        "domain": "nordstrom.com",
+        "emails": [
+            {
+                "value": "contact@nordstrom.com",
+                "sources": [
+                    {
+                        "ref": "duckduckgo",
+                        "extracted_on": "2021-09-02T16:52:56.687000",
+                        "updated_on": "2021-09-02T16:52:56.687000"
+                    },
+                    {
+                        "ref": "https://certifiedlegalfunding.com/recalls/",
+                        "extracted_on": "2021-09-06T21:08:27.004000",
+                        "updated_on": "2021-09-06T21:08:27.004000"
+                    }
+                ]
+            },
+            {
+                "value": "rsvp@nordstrom.com",
+                "sources": [
+                    {
+                        "ref": "https://www.lesliebethel.com/work",
+                        "extracted_on": "2021-10-08T21:10:15.050000",
+                        "updated_on": "2021-10-08T21:10:15.050000"
+                    }
+                ]
+            },
+            {
+                "value": "tonya.young@nordstrom.com",
+                "full_name": "Tonya Young",
+                "title": "boise nordstrom rack store manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "natalie.rocha@nordstrom.com",
+                "full_name": "Natalie Rocha",
+                "title": "loss prevention manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "stephanie.scaggs@nordstrom.com",
+                "full_name": "Stephanie Scaggs",
+                "title": "womens department sales",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "kenneth.brown@nordstrom.com",
+                "full_name": "Kenneth Brown",
+                "title": "customer service representative",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "gina.robinson@nordstrom.com",
+                "full_name": "Gina Robinson",
+                "title": "customer service representative",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "mark.hagen@nordstrom.com",
+                "full_name": "Mark Hagen",
+                "title": "internal audit intern",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "scarlet.roa@nordstrom.com",
+                "full_name": "Scarlet Roa",
+                "title": "store administrator",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            },
+            {
+                "value": "ayanna.riser@nordstrom.com",
+                "full_name": "Ayanna Ruthcash Riser",
+                "title": "store administrator",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-06T16:04:59.345000",
+                        "updated_on": "2021-11-06T16:04:59.345000"
+                    }
+                ]
+            }
+        ],
+        "external_emails": [
+            {
+                "value": "ADAM.GORACKE@NORDSTROM.COM",
+                "full_name": "Adam  Goracke",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "ADAM.MCCASLAND@NORDSTROM.COM",
+                "full_name": "Adam  Mccasland",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "ADAM.SEED@NORDSTROM.COM",
+                "full_name": "Adam  Seed",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "AIKO.ENDOW@NORDSTROM.COM",
+                "full_name": "Aiko  Endow",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "AILEEN.BLACKMORE@NORDSTROM.COM",
+                "full_name": "Aileen  Blackmore",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "AIME.LIPPENCOTT@NORDSTROM.COM",
+                "full_name": "Amy  Lippencott",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "AIMEE.CORR@NORDSTROM.COM",
+                "full_name": "Aimee  Corr",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "AIMEE.HILLBLOM@NORDSTROM.COM",
+                "full_name": "Aimee  Hillblom",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "AIMEE.STEVENSON@NORDSTROM.COM",
+                "full_name": "Aimee  Stevenson",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            },
+            {
+                "value": "AJOY.CHERIAN@NORDSTROM.COM",
+                "full_name": "Ajoy  Cherian",
+                "title": null,
+                "sources": [
+                    {
+                        "ref": "ZInfo",
+                        "extracted_on": "2022-03-02T18:00:47.122000",
+                        "updated_on": "2022-03-02T18:00:47.122000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "http://hillstonerestaurant.com/locations/dallas-parkcities/",
+        "domain": "hillstonerestaurant.com",
+        "external_emails": [
+            {
+                "value": "guestservices@hillstone.com",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/denver/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/sanfrancisco/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    },
+                    {
+                        "ref": "https://hillstonerestaurant.com/gallery/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://hillstonerestaurant.com/about/",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "hillstone@buyatab.com",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/giftcards/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/Hillstone-in-Coral-Gables-112402342167721/",
+            "instagram": "https://www.instagram.com/hillstonerestaurant"
+        },
+        "site_data": {
+            "description": "Classic American cuisine, warm modern spaces featuring striking artwork, and extraordinary service in a casual setting.",
+            "generator": "nanoc 4.9.4",
+            "title": "Hillstone"
+        },
+        "phones": [
+            {
+                "value": "8002309787",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/coralgables/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    },
+                    {
+                        "ref": "https://hillstonerestaurant.com/gallery/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "3055290141",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/coralgables/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "3105767558",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/santamonica/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "2146918991",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/dallas-parkcities/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "7135292385",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/houston/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "3033334688",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/denver/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "6029579700",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/phoenix/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "2126891090",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/locations/nyc-parkavenuesouth/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            },
+            {
+                "value": "18883039134",
+                "sources": [
+                    {
+                        "ref": "https://hillstonerestaurant.com/giftcards/",
+                        "extracted_on": "2021-10-20T19:34:44.948000",
+                        "updated_on": "2021-10-20T19:34:44.948000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://locations.thecheesecakefactory.com/tx/dallas-26.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+        "domain": "locations.thecheesecakefactory.com",
+        "socials": {
+            "facebook": "https://www.facebook.com/thecheesecakefactory",
+            "instagram": "http://www.instagram.com/cheesecakefactory",
+            "twitter": "https://www.twitter.com/cheesecake",
+            "youtube": "https://www.youtube.com/user/TCFMarketing"
+        },
+        "site_data": {
+            "description": "Maps, Driving Directions and Local Restaurant Information.",
+            "title": "The Cheesecake Factory Restaurant Locations"
+        }
+    },
+    {
+        "query": "https://www.elfenix.com/",
+        "domain": "elfenix.com",
+        "socials": {
+            "facebook": "https://www.facebook.com/ElFenixMexicanRestaurant/",
+            "instagram": "https://www.instagram.com/elfenixmexican",
+            "twitter": "https://twitter.com/ElFenixMexican"
+        },
+        "site_data": {
+            "description": "El Fenix Mexican Restaurants, The Original Tex Mex. A STORY 100 YEARS IN THE MAKING. Come join us at any of our locations for Lunch or Dinner.",
+            "generator": "WordPress 5.8.2",
+            "title": "El Fenix Mexican Restaurants - The Original Tex Mex - Best Mexican Food in TX"
+        },
+        "emails": [
+            {
+                "value": "feedback@elfenix.com",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2021-12-17T10:41:12.409000",
+                        "updated_on": "2022-02-01T05:16:59.252000"
+                    }
+                ]
+            }
+        ],
+        "phones": [
+            {
+                "value": "+1 214-747-1121",
+                "sources": [
+                    {
+                        "ref": "fb",
+                        "extracted_on": "2021-12-17T10:41:12.409000",
+                        "updated_on": "2022-02-01T05:16:59.252000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://www.malaikitchen.com/",
+        "domain": "malaikitchen.com",
+        "emails": [
+            {
+                "value": "clearfork@malaikitchen.com",
+                "sources": [
+                    {
+                        "ref": "https://www.malaikitchen.com/fort-worth-cdjm",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "southlake@malaikitchen.com",
+                "sources": [
+                    {
+                        "ref": "https://www.malaikitchen.com/sl-contact",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            },
+            {
+                "value": "info@malaikitchen.com",
+                "sources": [
+                    {
+                        "ref": "https://www.malaikitchen.com/contact",
+                        "extracted_on": "2021-08-17T04:04:48.095000",
+                        "updated_on": "2021-08-17T04:04:48.095000"
+                    }
+                ]
+            }
+        ],
+        "site_data": {
+            "description": " Best Thai & Vietnamese Restaurant in Dallas, located Uptown in West Village. Offering Brunch, Happy Hour, Home Brew, Growler Fill, vegan and vegetarian options",
+            "generator": "Wix.com Website Builder",
+            "keywords": "Best Brunch in Dallas, Best thai food in Dallas, Cheap Drinks, Cocktails Dallas, Happy Hour Deals, asian food Dallas, dallas thai food, drink specials, ethnic, great restaurant, growler, home brew, thai, vegan, vegetarian",
+            "title": "Malai Kitchen "
+        }
+    },
+    {
+        "query": "http://www.muchachotexmex.com/",
+        "domain": "muchachotexmex.com",
+        "emails": [
+            {
+                "value": "info@muchachotexmex.com",
+                "sources": [
+                    {
+                        "ref": "http://muchachotexmex.com",
+                        "extracted_on": "2021-12-29T19:48:08.149000",
+                        "updated_on": "2021-12-29T19:48:08.149000"
+                    },
+                    {
+                        "ref": "http://muchachotexmex.com/southlake-tex-mex/",
+                        "extracted_on": "2021-12-29T19:48:08.149000",
+                        "updated_on": "2021-12-29T19:48:08.149000"
+                    },
+                    {
+                        "ref": "http://muchachotexmex.com/dallas-tex-mex/",
+                        "extracted_on": "2021-12-29T19:48:08.149000",
+                        "updated_on": "2021-12-29T19:48:08.149000"
+                    }
+                ]
+            }
+        ],
+        "phones": [
+            {
+                "value": "4695132944",
+                "sources": [
+                    {
+                        "ref": "http://muchachotexmex.com",
+                        "extracted_on": "2021-12-29T19:48:08.149000",
+                        "updated_on": "2021-12-29T19:48:08.149000"
+                    },
+                    {
+                        "ref": "http://muchachotexmex.com/dallas-tex-mex/",
+                        "extracted_on": "2021-12-29T19:48:08.149000",
+                        "updated_on": "2021-12-29T19:48:08.149000"
+                    }
+                ]
+            },
+            {
+                "value": "6824774500",
+                "sources": [
+                    {
+                        "ref": "http://muchachotexmex.com",
+                        "extracted_on": "2021-12-29T19:48:08.149000",
+                        "updated_on": "2021-12-29T19:48:08.149000"
+                    },
+                    {
+                        "ref": "http://muchachotexmex.com/southlake-tex-mex/",
+                        "extracted_on": "2021-12-29T19:48:08.149000",
+                        "updated_on": "2021-12-29T19:48:08.149000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/muchachotexmex/",
+            "instagram": "https://www.instagram.com/ChefOmarFlores"
+        },
+        "site_data": {
+            "generator": "WordPress 5.8",
+            "title": "Muchacho Tex Mex - Dallas, TX & Southlake, TX - Muchacho Tex Mex"
+        }
+    },
+    {
+        "query": "http://gofishpoketexas.com/",
+        "domain": "gofishpoketexas.com",
+        "socials": {
+            "facebook": "https://www.facebook.com/gofishpoketexas/",
+            "instagram": "https://www.instagram.com/gofishpoketexas",
+            "twitter": "https://twitter.com/gofishpoketexas"
+        },
+        "site_data": {
+            "generator": "WordPress 4.9.20",
+            "title": "Account Suspended"
+        },
+        "emails": [
+            {
+                "value": "webmaster@gofishpoketexas.com",
+                "sources": [
+                    {
+                        "ref": "http://gofishpoketexas.com/cgi-sys/suspendedpage.cgi",
+                        "extracted_on": "2022-05-12T16:02:00.104000",
+                        "updated_on": "2022-05-12T16:02:00.104000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "https://roti.com/?utm_source=facebook&utm_medium=Yext&y_source=1_MjYwNTAzNzYtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl",
+        "domain": "roti.com",
+        "site_data": {
+            "title": "R\u014dti"
+        },
+        "emails": [
+            {
+                "value": "bpost@roti.com",
+                "full_name": "William Post",
+                "title": "Co-Founder and President",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:40.181000",
+                        "updated_on": "2021-11-13T19:16:40.181000"
+                    }
+                ]
+            },
+            {
+                "value": "bholleman@roti.com",
+                "full_name": "Bill Holleman",
+                "title": "Director of Operations",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:40.181000",
+                        "updated_on": "2021-11-13T19:16:40.181000"
+                    }
+                ]
+            },
+            {
+                "value": "jwestlund@roti.com",
+                "full_name": "Justin Westlund",
+                "title": "Catering Sales Manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:14.476000",
+                        "updated_on": "2021-11-13T19:16:14.476000"
+                    }
+                ]
+            },
+            {
+                "value": "jcahillane@roti.com",
+                "full_name": "Jack Cahillane",
+                "title": "General Manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-13T19:16:14.476000",
+                        "updated_on": "2021-11-13T19:16:14.476000"
+                    }
+                ]
+            },
+            {
+                "value": "pmolthan@roti.com",
+                "full_name": "Paul Molthan",
+                "title": "Chef",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-14T10:51:02.022000",
+                        "updated_on": "2021-11-14T10:51:02.022000"
+                    }
+                ]
+            },
+            {
+                "value": "julie@roti.com",
+                "full_name": "Julie Weber",
+                "title": "Senior Catering Sales Manager",
+                "sources": [
+                    {
+                        "ref": "Linkedin",
+                        "extracted_on": "2021-11-14T10:51:02.022000",
+                        "updated_on": "2021-11-14T10:51:02.022000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "query": "http://www.rexsseafood.com/",
+        "domain": "rexsseafood.com",
+        "phones": [
+            {
+                "value": "12147580566",
+                "sources": [
+                    {
+                        "ref": "http://rexsseafood.com",
+                        "extracted_on": "2021-10-03T17:32:11.238000",
+                        "updated_on": "2022-01-03T06:56:42.689000"
+                    }
+                ]
+            },
+            {
+                "value": "12142729372",
+                "sources": [
+                    {
+                        "ref": "http://rexsseafood.com",
+                        "extracted_on": "2021-10-03T17:32:11.238000",
+                        "updated_on": "2022-01-03T06:56:42.689000"
+                    }
+                ]
+            }
+        ],
+        "socials": {
+            "facebook": "https://www.facebook.com/1580195052247355",
+            "twitter": "https://www.twitter.com/Rexsseafood"
+        },
+        "site_data": {
+            "description": "",
+            "title": "Rex's Seafood"
+        },
+        "emails": [
+            {
+                "value": "beau@rexsseafood.com",
+                "sources": [
+                    {
+                        "ref": "duckduckgo",
+                        "extracted_on": "2022-01-03T06:59:03.744000",
+                        "updated_on": "2022-01-03T06:59:03.744000"
+                    }
+                ]
+            },
+            {
+                "value": "catering@rexsseafood.com",
+                "sources": [
+                    {
+                        "ref": "duckduckgo",
+                        "extracted_on": "2022-01-03T06:59:03.744000",
+                        "updated_on": "2022-01-03T06:59:03.744000"
+                    }
+                ]
+            }
+        ]
+    }
+]
