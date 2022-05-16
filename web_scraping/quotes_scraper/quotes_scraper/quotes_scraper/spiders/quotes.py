@@ -13,16 +13,21 @@ import os
 ## '//li[@class="next"]/a/@href'
 
 class quotesSpider(scrapy.Spider):
+    
     name = 'quotes'
+
     start_urls = [
         'http://quotes.toscrape.com/'
     ]
+
     if os.path.exists('quotes.json'):
         os.remove("quotes.json")
     
+
     custom_settings = {
         "FEEDS":{"quotes.json":{"format":"json"}}
     }
+
     def parse_quotes(self, response, **kwargs):
         if kwargs:
             quotes = kwargs['quotes']
