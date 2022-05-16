@@ -18,8 +18,8 @@ class quotesSpider(scrapy.Spider):
         'http://quotes.toscrape.com/'
     ]
 
-    if os.path.exists('quotes_2.csv'):
-        os.remove("quotes_2.csv")
+    #if os.path.exists('quotes_2.csv'):
+    #    os.remove("quotes_2.csv")
 
     custom_settings = {
         "FEEDS":{"quotes_2.csv":{"format":"csv"}}

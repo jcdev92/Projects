@@ -20,8 +20,8 @@ class quotesSpider(scrapy.Spider):
         'http://quotes.toscrape.com/'
     ]
 
-    if os.path.exists('quotes.json'):
-        os.remove("quotes.json")
+    # if os.path.exists('quotes.json'):
+    #     os.remove("quotes.json")
     
 
     custom_settings = {
