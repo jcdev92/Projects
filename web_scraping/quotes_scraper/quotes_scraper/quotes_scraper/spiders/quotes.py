@@ -44,11 +44,16 @@ class quotesSpider(scrapy.Spider):
     def parse(self, response):
         title = response.xpath('//h1/a/text() ').get()
         quotes = response.xpath('//span[@class="text" and @itemprop="text"]/text()').getall()
-        ten_tags = response.xpath('//div[contains(@class, "tags-box")]//span[@class="tag-item"]/a/text()').getall()
+        top_tags = response.xpath('//div[contains(@class, "tags-box")]//span[@class="tag-item"]/a/text()').getall()
         
+        top = getattr(self, 'top', None)
+        if top:
+            top = int(top)
+            top_tags = top_tags[:top]
+
         yield {
             'title': title,
-            'ten_tags': ten_tags
+            'top_tags': top_tags
         }
 
         next_page_button_link = response.xpath('//li[@class="next"]/a/@href').get()
