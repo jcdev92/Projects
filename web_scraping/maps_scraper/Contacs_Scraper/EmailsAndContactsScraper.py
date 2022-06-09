@@ -19,5 +19,5 @@ api_client = ApiClient(api_key='Z29vZ2xlLW9hdXRoMnwxMTE0OTA0MzI1MDM2NTczMTMwODl8
 # Search for businesses in specific locations:
 result = api_client.emails_and_contacts(webs)
 
-with open('./json_files/the_guild.json', 'w') as file:
+with open('./json_files/mexexterior', 'w') as file:
     json.dump(result, file, indent=4)
