@@ -14,7 +14,7 @@ class WordldometersSpider(scrapy.Spider):
             country_name = country.xpath(".//text()").get()
             link = country.xpath(".//@href").get()
 
-        yield response.follow(url=link, callback=self.parse_country, meta={'country': country_name})
+            yield response.follow(url=link, callback=self.parse_country, meta={'country': country_name})
 
         # yield {
         #     'title': title,
